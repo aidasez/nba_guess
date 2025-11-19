@@ -1,0 +1,1 @@
+update_html(f"2025-{month}-{yesterday}")
