@@ -73,11 +73,11 @@
             {
                 "key": "matchbook",
                 "title": "Matchbook",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:41Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Charlotte Hornets",
@@ -91,7 +91,7 @@
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Charlotte Hornets",
@@ -108,11 +108,11 @@
             {
                 "key": "williamhill",
                 "title": "William Hill",
-                "last_update": "2025-11-19T18:53:32Z",
+                "last_update": "2025-11-19T18:54:42Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:32Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Charlotte Hornets",
@@ -129,11 +129,11 @@
             {
                 "key": "paddypower",
                 "title": "Paddy Power",
-                "last_update": "2025-11-19T18:53:04Z",
+                "last_update": "2025-11-19T18:54:54Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:04Z",
+                        "last_update": "2025-11-19T18:54:54Z",
                         "outcomes": [
                             {
                                 "name": "Charlotte Hornets",
@@ -213,15 +213,15 @@
             {
                 "key": "virginbet",
                 "title": "Virgin Bet",
-                "last_update": "2025-11-19T18:53:45Z",
+                "last_update": "2025-11-19T18:54:54Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:45Z",
+                        "last_update": "2025-11-19T18:54:54Z",
                         "outcomes": [
                             {
                                 "name": "Charlotte Hornets",
-                                "price": 1.84
+                                "price": 1.83
                             },
                             {
                                 "name": "Indiana Pacers",
@@ -276,11 +276,11 @@
             {
                 "key": "betfair_ex_uk",
                 "title": "Betfair",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:42Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Charlotte Hornets",
@@ -294,7 +294,7 @@
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Charlotte Hornets",
@@ -353,11 +353,11 @@
             {
                 "key": "betway",
                 "title": "Betway",
-                "last_update": "2025-11-19T18:53:33Z",
+                "last_update": "2025-11-19T18:54:43Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:33Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Charlotte Hornets",
@@ -374,11 +374,11 @@
             {
                 "key": "smarkets",
                 "title": "Smarkets",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:44Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:44Z",
                         "outcomes": [
                             {
                                 "name": "Charlotte Hornets",
@@ -392,7 +392,7 @@
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:44Z",
                         "outcomes": [
                             {
                                 "name": "Charlotte Hornets",
@@ -461,11 +461,11 @@
             {
                 "key": "williamhill",
                 "title": "William Hill",
-                "last_update": "2025-11-19T18:53:32Z",
+                "last_update": "2025-11-19T18:54:42Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:32Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Cleveland Cavaliers",
@@ -482,11 +482,11 @@
             {
                 "key": "paddypower",
                 "title": "Paddy Power",
-                "last_update": "2025-11-19T18:53:04Z",
+                "last_update": "2025-11-19T18:54:54Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:04Z",
+                        "last_update": "2025-11-19T18:54:54Z",
                         "outcomes": [
                             {
                                 "name": "Cleveland Cavaliers",
@@ -545,11 +545,11 @@
             {
                 "key": "matchbook",
                 "title": "Matchbook",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:41Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Cleveland Cavaliers",
@@ -563,7 +563,7 @@
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Cleveland Cavaliers",
@@ -622,11 +622,11 @@
             {
                 "key": "virginbet",
                 "title": "Virgin Bet",
-                "last_update": "2025-11-19T18:53:45Z",
+                "last_update": "2025-11-19T18:54:54Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:45Z",
+                        "last_update": "2025-11-19T18:54:54Z",
                         "outcomes": [
                             {
                                 "name": "Cleveland Cavaliers",
@@ -727,11 +727,11 @@
             {
                 "key": "betfair_ex_uk",
                 "title": "Betfair",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:42Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Cleveland Cavaliers",
@@ -745,7 +745,7 @@
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Cleveland Cavaliers",
@@ -762,11 +762,11 @@
             {
                 "key": "betway",
                 "title": "Betway",
-                "last_update": "2025-11-19T18:53:33Z",
+                "last_update": "2025-11-19T18:54:43Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:33Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Cleveland Cavaliers",
@@ -783,11 +783,11 @@
             {
                 "key": "smarkets",
                 "title": "Smarkets",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:44Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:44Z",
                         "outcomes": [
                             {
                                 "name": "Cleveland Cavaliers",
@@ -795,13 +795,13 @@
                             },
                             {
                                 "name": "Houston Rockets",
-                                "price": 1.91
+                                "price": 1.89
                             }
                         ]
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:44Z",
                         "outcomes": [
                             {
                                 "name": "Cleveland Cavaliers",
@@ -809,7 +809,7 @@
                             },
                             {
                                 "name": "Houston Rockets",
-                                "price": 1.94
+                                "price": 1.92
                             }
                         ]
                     }
@@ -870,11 +870,11 @@
             {
                 "key": "williamhill",
                 "title": "William Hill",
-                "last_update": "2025-11-19T18:53:32Z",
+                "last_update": "2025-11-19T18:54:42Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:32Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Philadelphia 76ers",
@@ -912,11 +912,11 @@
             {
                 "key": "paddypower",
                 "title": "Paddy Power",
-                "last_update": "2025-11-19T18:53:04Z",
+                "last_update": "2025-11-19T18:54:54Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:04Z",
+                        "last_update": "2025-11-19T18:54:54Z",
                         "outcomes": [
                             {
                                 "name": "Philadelphia 76ers",
@@ -996,11 +996,11 @@
             {
                 "key": "matchbook",
                 "title": "Matchbook",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:41Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Philadelphia 76ers",
@@ -1014,7 +1014,7 @@
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Philadelphia 76ers",
@@ -1031,11 +1031,11 @@
             {
                 "key": "virginbet",
                 "title": "Virgin Bet",
-                "last_update": "2025-11-19T18:53:45Z",
+                "last_update": "2025-11-19T18:54:54Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:45Z",
+                        "last_update": "2025-11-19T18:54:54Z",
                         "outcomes": [
                             {
                                 "name": "Philadelphia 76ers",
@@ -1094,11 +1094,11 @@
             {
                 "key": "betfair_ex_uk",
                 "title": "Betfair",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:42Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Philadelphia 76ers",
@@ -1106,13 +1106,13 @@
                             },
                             {
                                 "name": "Toronto Raptors",
-                                "price": 1.86
+                                "price": 1.87
                             }
                         ]
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Philadelphia 76ers",
@@ -1171,11 +1171,11 @@
             {
                 "key": "betway",
                 "title": "Betway",
-                "last_update": "2025-11-19T18:53:33Z",
+                "last_update": "2025-11-19T18:54:43Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:33Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Philadelphia 76ers",
@@ -1192,11 +1192,11 @@
             {
                 "key": "smarkets",
                 "title": "Smarkets",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:44Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:44Z",
                         "outcomes": [
                             {
                                 "name": "Philadelphia 76ers",
@@ -1210,7 +1210,7 @@
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:44Z",
                         "outcomes": [
                             {
                                 "name": "Philadelphia 76ers",
@@ -1300,11 +1300,11 @@
             {
                 "key": "smarkets",
                 "title": "Smarkets",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:44Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:44Z",
                         "outcomes": [
                             {
                                 "name": "Golden State Warriors",
@@ -1312,21 +1312,21 @@
                             },
                             {
                                 "name": "Miami Heat",
-                                "price": 1.31
+                                "price": 1.33
                             }
                         ]
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:44Z",
                         "outcomes": [
                             {
                                 "name": "Golden State Warriors",
-                                "price": 4.2
+                                "price": 4.1
                             },
                             {
                                 "name": "Miami Heat",
-                                "price": 1.37
+                                "price": 1.39
                             }
                         ]
                     }
@@ -1356,11 +1356,11 @@
             {
                 "key": "paddypower",
                 "title": "Paddy Power",
-                "last_update": "2025-11-19T18:53:04Z",
+                "last_update": "2025-11-19T18:54:54Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:04Z",
+                        "last_update": "2025-11-19T18:54:54Z",
                         "outcomes": [
                             {
                                 "name": "Golden State Warriors",
@@ -1419,11 +1419,11 @@
             {
                 "key": "betway",
                 "title": "Betway",
-                "last_update": "2025-11-19T18:53:33Z",
+                "last_update": "2025-11-19T18:54:43Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:33Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Golden State Warriors",
@@ -1440,11 +1440,11 @@
             {
                 "key": "williamhill",
                 "title": "William Hill",
-                "last_update": "2025-11-19T18:53:32Z",
+                "last_update": "2025-11-19T18:54:42Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:32Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Golden State Warriors",
@@ -1461,15 +1461,15 @@
             {
                 "key": "matchbook",
                 "title": "Matchbook",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:41Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Golden State Warriors",
-                                "price": 3.8
+                                "price": 3.85
                             },
                             {
                                 "name": "Miami Heat",
@@ -1479,7 +1479,7 @@
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Golden State Warriors",
@@ -1496,11 +1496,11 @@
             {
                 "key": "betfair_ex_uk",
                 "title": "Betfair",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:42Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Golden State Warriors",
@@ -1508,13 +1508,13 @@
                             },
                             {
                                 "name": "Miami Heat",
-                                "price": 1.35
+                                "price": 1.34
                             }
                         ]
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Golden State Warriors",
@@ -1615,11 +1615,11 @@
             {
                 "key": "virginbet",
                 "title": "Virgin Bet",
-                "last_update": "2025-11-19T18:53:45Z",
+                "last_update": "2025-11-19T18:54:54Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:45Z",
+                        "last_update": "2025-11-19T18:54:54Z",
                         "outcomes": [
                             {
                                 "name": "Golden State Warriors",
@@ -1709,11 +1709,11 @@
             {
                 "key": "williamhill",
                 "title": "William Hill",
-                "last_update": "2025-11-19T18:53:32Z",
+                "last_update": "2025-11-19T18:54:42Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:32Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Denver Nuggets",
@@ -1751,11 +1751,11 @@
             {
                 "key": "paddypower",
                 "title": "Paddy Power",
-                "last_update": "2025-11-19T18:53:04Z",
+                "last_update": "2025-11-19T18:54:54Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:04Z",
+                        "last_update": "2025-11-19T18:54:54Z",
                         "outcomes": [
                             {
                                 "name": "Denver Nuggets",
@@ -1793,11 +1793,11 @@
             {
                 "key": "matchbook",
                 "title": "Matchbook",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:41Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Denver Nuggets",
@@ -1811,7 +1811,7 @@
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Denver Nuggets",
@@ -1828,11 +1828,11 @@
             {
                 "key": "virginbet",
                 "title": "Virgin Bet",
-                "last_update": "2025-11-19T18:53:45Z",
+                "last_update": "2025-11-19T18:54:54Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:45Z",
+                        "last_update": "2025-11-19T18:54:54Z",
                         "outcomes": [
                             {
                                 "name": "Denver Nuggets",
@@ -1891,11 +1891,11 @@
             {
                 "key": "betfair_ex_uk",
                 "title": "Betfair",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:42Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Denver Nuggets",
@@ -1909,7 +1909,7 @@
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Denver Nuggets",
@@ -1947,11 +1947,11 @@
             {
                 "key": "betway",
                 "title": "Betway",
-                "last_update": "2025-11-19T18:53:33Z",
+                "last_update": "2025-11-19T18:54:43Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:33Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Denver Nuggets",
@@ -2010,11 +2010,11 @@
             {
                 "key": "smarkets",
                 "title": "Smarkets",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:44Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:44Z",
                         "outcomes": [
                             {
                                 "name": "Denver Nuggets",
@@ -2028,7 +2028,7 @@
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:44Z",
                         "outcomes": [
                             {
                                 "name": "Denver Nuggets",
@@ -2118,11 +2118,11 @@
             {
                 "key": "williamhill",
                 "title": "William Hill",
-                "last_update": "2025-11-19T18:53:32Z",
+                "last_update": "2025-11-19T18:54:42Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:32Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Minnesota Timberwolves",
@@ -2160,11 +2160,11 @@
             {
                 "key": "paddypower",
                 "title": "Paddy Power",
-                "last_update": "2025-11-19T18:53:04Z",
+                "last_update": "2025-11-19T18:54:54Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:04Z",
+                        "last_update": "2025-11-19T18:54:54Z",
                         "outcomes": [
                             {
                                 "name": "Minnesota Timberwolves",
@@ -2202,11 +2202,11 @@
             {
                 "key": "matchbook",
                 "title": "Matchbook",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:41Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Minnesota Timberwolves",
@@ -2220,7 +2220,7 @@
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Minnesota Timberwolves",
@@ -2237,11 +2237,11 @@
             {
                 "key": "virginbet",
                 "title": "Virgin Bet",
-                "last_update": "2025-11-19T18:53:45Z",
+                "last_update": "2025-11-19T18:54:54Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:45Z",
+                        "last_update": "2025-11-19T18:54:54Z",
                         "outcomes": [
                             {
                                 "name": "Minnesota Timberwolves",
@@ -2342,11 +2342,11 @@
             {
                 "key": "betfair_ex_uk",
                 "title": "Betfair",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:42Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Minnesota Timberwolves",
@@ -2360,7 +2360,7 @@
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Minnesota Timberwolves",
@@ -2398,11 +2398,11 @@
             {
                 "key": "betway",
                 "title": "Betway",
-                "last_update": "2025-11-19T18:53:33Z",
+                "last_update": "2025-11-19T18:54:43Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:33Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Minnesota Timberwolves",
@@ -2419,11 +2419,11 @@
             {
                 "key": "smarkets",
                 "title": "Smarkets",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:44Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:44Z",
                         "outcomes": [
                             {
                                 "name": "Minnesota Timberwolves",
@@ -2437,7 +2437,7 @@
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:44Z",
                         "outcomes": [
                             {
                                 "name": "Minnesota Timberwolves",
@@ -2548,11 +2548,11 @@
             {
                 "key": "paddypower",
                 "title": "Paddy Power",
-                "last_update": "2025-11-19T18:53:04Z",
+                "last_update": "2025-11-19T18:54:54Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:04Z",
+                        "last_update": "2025-11-19T18:54:54Z",
                         "outcomes": [
                             {
                                 "name": "Oklahoma City Thunder",
@@ -2590,11 +2590,11 @@
             {
                 "key": "matchbook",
                 "title": "Matchbook",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:41Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Oklahoma City Thunder",
@@ -2608,7 +2608,7 @@
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Oklahoma City Thunder",
@@ -2625,11 +2625,11 @@
             {
                 "key": "williamhill",
                 "title": "William Hill",
-                "last_update": "2025-11-19T18:53:32Z",
+                "last_update": "2025-11-19T18:54:42Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:32Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Oklahoma City Thunder",
@@ -2646,11 +2646,11 @@
             {
                 "key": "virginbet",
                 "title": "Virgin Bet",
-                "last_update": "2025-11-19T18:53:45Z",
+                "last_update": "2025-11-19T18:54:54Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:45Z",
+                        "last_update": "2025-11-19T18:54:54Z",
                         "outcomes": [
                             {
                                 "name": "Oklahoma City Thunder",
@@ -2709,11 +2709,11 @@
             {
                 "key": "betfair_ex_uk",
                 "title": "Betfair",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:42Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Oklahoma City Thunder",
@@ -2727,7 +2727,7 @@
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Oklahoma City Thunder",
@@ -2744,11 +2744,11 @@
             {
                 "key": "smarkets",
                 "title": "Smarkets",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:44Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:44Z",
                         "outcomes": [
                             {
                                 "name": "Oklahoma City Thunder",
@@ -2762,7 +2762,7 @@
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:44Z",
                         "outcomes": [
                             {
                                 "name": "Oklahoma City Thunder",
@@ -2842,11 +2842,11 @@
             {
                 "key": "betway",
                 "title": "Betway",
-                "last_update": "2025-11-19T18:53:33Z",
+                "last_update": "2025-11-19T18:54:43Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:33Z",
+                        "last_update": "2025-11-19T18:54:43Z",
                         "outcomes": [
                             {
                                 "name": "Oklahoma City Thunder",
@@ -2957,11 +2957,11 @@
             {
                 "key": "paddypower",
                 "title": "Paddy Power",
-                "last_update": "2025-11-19T18:53:04Z",
+                "last_update": "2025-11-19T18:54:54Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:04Z",
+                        "last_update": "2025-11-19T18:54:54Z",
                         "outcomes": [
                             {
                                 "name": "Dallas Mavericks",
@@ -2999,11 +2999,11 @@
             {
                 "key": "williamhill",
                 "title": "William Hill",
-                "last_update": "2025-11-19T18:53:32Z",
+                "last_update": "2025-11-19T18:54:42Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:32Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Dallas Mavericks",
@@ -3020,11 +3020,11 @@
             {
                 "key": "smarkets",
                 "title": "Smarkets",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:44Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:44Z",
                         "outcomes": [
                             {
                                 "name": "Dallas Mavericks",
@@ -3038,7 +3038,7 @@
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:44Z",
                         "outcomes": [
                             {
                                 "name": "Dallas Mavericks",
@@ -3055,11 +3055,11 @@
             {
                 "key": "virginbet",
                 "title": "Virgin Bet",
-                "last_update": "2025-11-19T18:53:45Z",
+                "last_update": "2025-11-19T18:54:54Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:45Z",
+                        "last_update": "2025-11-19T18:54:54Z",
                         "outcomes": [
                             {
                                 "name": "Dallas Mavericks",
@@ -3118,11 +3118,11 @@
             {
                 "key": "betfair_ex_uk",
                 "title": "Betfair",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:42Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Dallas Mavericks",
@@ -3136,7 +3136,7 @@
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Dallas Mavericks",
@@ -3153,11 +3153,11 @@
             {
                 "key": "matchbook",
                 "title": "Matchbook",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:41Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Dallas Mavericks",
@@ -3171,7 +3171,7 @@
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Dallas Mavericks",
@@ -3251,11 +3251,11 @@
             {
                 "key": "betway",
                 "title": "Betway",
-                "last_update": "2025-11-19T18:53:33Z",
+                "last_update": "2025-11-19T18:54:43Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:33Z",
+                        "last_update": "2025-11-19T18:54:43Z",
                         "outcomes": [
                             {
                                 "name": "Dallas Mavericks",
@@ -3282,11 +3282,11 @@
             {
                 "key": "paddypower",
                 "title": "Paddy Power",
-                "last_update": "2025-11-19T18:53:04Z",
+                "last_update": "2025-11-19T18:54:54Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:04Z",
+                        "last_update": "2025-11-19T18:54:54Z",
                         "outcomes": [
                             {
                                 "name": "Chicago Bulls",
@@ -3408,11 +3408,11 @@
             {
                 "key": "betfair_ex_uk",
                 "title": "Betfair",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:42Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Chicago Bulls",
@@ -3426,7 +3426,7 @@
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Chicago Bulls",
@@ -3443,11 +3443,11 @@
             {
                 "key": "matchbook",
                 "title": "Matchbook",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:41Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Chicago Bulls",
@@ -3461,7 +3461,7 @@
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Chicago Bulls",
@@ -3478,11 +3478,11 @@
             {
                 "key": "williamhill",
                 "title": "William Hill",
-                "last_update": "2025-11-19T18:53:32Z",
+                "last_update": "2025-11-19T18:54:42Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:32Z",
+                        "last_update": "2025-11-19T18:54:42Z",
                         "outcomes": [
                             {
                                 "name": "Chicago Bulls",
@@ -3562,11 +3562,11 @@
             {
                 "key": "virginbet",
                 "title": "Virgin Bet",
-                "last_update": "2025-11-19T18:53:45Z",
+                "last_update": "2025-11-19T18:54:54Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:45Z",
+                        "last_update": "2025-11-19T18:54:54Z",
                         "outcomes": [
                             {
                                 "name": "Chicago Bulls",
@@ -3625,11 +3625,11 @@
             {
                 "key": "betway",
                 "title": "Betway",
-                "last_update": "2025-11-19T18:53:33Z",
+                "last_update": "2025-11-19T18:54:43Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:33Z",
+                        "last_update": "2025-11-19T18:54:43Z",
                         "outcomes": [
                             {
                                 "name": "Chicago Bulls",
@@ -3646,11 +3646,11 @@
             {
                 "key": "smarkets",
                 "title": "Smarkets",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:44Z",
                 "markets": [
                     {
                         "key": "h2h",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:44Z",
                         "outcomes": [
                             {
                                 "name": "Chicago Bulls",
@@ -3664,7 +3664,7 @@
                     },
                     {
                         "key": "h2h_lay",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:44Z",
                         "outcomes": [
                             {
                                 "name": "Chicago Bulls",

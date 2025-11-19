@@ -33,11 +33,11 @@
             {
                 "key": "matchbook",
                 "title": "Matchbook",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:41Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Charlotte Hornets",
@@ -158,11 +158,11 @@
             {
                 "key": "matchbook",
                 "title": "Matchbook",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:41Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Cleveland Cavaliers",
@@ -283,11 +283,11 @@
             {
                 "key": "matchbook",
                 "title": "Matchbook",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:41Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Philadelphia 76ers",
@@ -408,11 +408,11 @@
             {
                 "key": "matchbook",
                 "title": "Matchbook",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:41Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Golden State Warriors",
@@ -421,7 +421,7 @@
                             },
                             {
                                 "name": "Miami Heat",
-                                "price": 1.83,
+                                "price": 1.81,
                                 "point": -7.5
                             }
                         ]
@@ -533,11 +533,11 @@
             {
                 "key": "matchbook",
                 "title": "Matchbook",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:41Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Denver Nuggets",
@@ -658,11 +658,11 @@
             {
                 "key": "matchbook",
                 "title": "Matchbook",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:41Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Minnesota Timberwolves",
@@ -783,11 +783,11 @@
             {
                 "key": "matchbook",
                 "title": "Matchbook",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:41Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Oklahoma City Thunder",
@@ -931,11 +931,11 @@
             {
                 "key": "matchbook",
                 "title": "Matchbook",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:41Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Dallas Mavericks",
@@ -1033,20 +1033,20 @@
             {
                 "key": "matchbook",
                 "title": "Matchbook",
-                "last_update": "2025-11-19T18:53:58Z",
+                "last_update": "2025-11-19T18:54:41Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-19T18:53:58Z",
+                        "last_update": "2025-11-19T18:54:41Z",
                         "outcomes": [
                             {
                                 "name": "Chicago Bulls",
-                                "price": 1.27,
+                                "price": 1.26,
                                 "point": 7.5
                             },
                             {
                                 "name": "Portland Trail Blazers",
-                                "price": 3.9,
+                                "price": 3.95,
                                 "point": -7.5
                             }
                         ]
