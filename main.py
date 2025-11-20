@@ -328,6 +328,14 @@ def find_outcome():
             spread_winner = "home" if (home_score - spread) > away_score else "away"
         else:
             spread_winner = "home" if home_score > (away_score - spread) else "away"
+        if spread_winner == "home":
+            spread_winner = game_match[0]["home_team"]
+        else:
+            spread_winner = game_match[1]["away_team"]
+        if overall_winner == "home":
+            overall_winner = f"{home_score} + {game_match[0]["home_team"]}"
+        else:
+            overall_winner = f"{away_score} + {game_match[1]["away_team"]}"
         print(overall_winner,"hihi")
         success_list.append([overall_winner, spread_winner])
     os.chdir(script_dir)
