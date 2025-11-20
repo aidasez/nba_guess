@@ -1,4 +1,5 @@
 import requests
+import time
 import json
 from datetime import datetime, timedelta
 import os
@@ -178,6 +179,7 @@ def create_html():
             plusminus = "+"
         else:
             plusminus = ""
+        
         success_overall_winner = "?"
         success_spread_winner = "?"
         html_parent += f"""
@@ -197,25 +199,75 @@ def create_html():
     """
     with open(f"{date}_games.html", "w") as f:
         f.write(html_parent)
-def update_html(date):
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    success_list = find_outcome()
-    os.chdir(date)
-    with open(f"{date}_games.html", "r", encoding="utf-8") as file:
-        html_content = file.read()
+        
+def create_updated_html():
+    html_parent = f"""
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>{date}</title>
+        <style>
+            body {{
+                font-family: Arial, sans-serif;
+                background-color: #f0f0f0;
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+                gap: 10px;
+            }}
+            .game-box {{
+                background-color: #fff;
+                border: 2px solid #333;
+                border-radius: 10px;
+                padding: 15px;
+                margin: 10px;
+                width: fit-content;
+                box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
+                display: inline-block;         
+                max-width: 90%;  
+                word-wrap: break-word;
+            }}
+            .game-box h2 {{
+                margin: 0 0 10px 0;
+                font-size: 18px;
+                text-align: center;      
+                width: 100%;  
+            }}
+            .game-box p {{
+                margin: 5px 0;
+            }}
+        </style>
+    </head>
+    <body>
+    """
+    for i in range(0,len(games)):
+        if games[i][2] > 0 :
+            plusminus = "+"
+        else:
+            plusminus = ""
+        success_list = find_outcome()
+        time.sleep(1)
+        print("success list",success_list)
+        success_overall_winner = success_list[i][0]
+        success_spread_winner = success_list[i][1]
+        html_parent += f"""
+        <div class="game-box">
+        <h2>{games[i][0]["home_team"]}
+        <p><em>  {games[i][0]["odds"]}</p></em> 
+        {games[i][1]["away_team"]}
+        <p><em>  {games[i][1]["odds"]}</p></em></h2>
+        <p><strong>Spread: {plusminus}{games[i][2]}</strong></p>
+        <p><strong>Odds of Spread:</strong> {games[i][3]}</p>
+        <p><strong>Success: </strong> Overall: {success_overall_winner}, Spread: {success_spread_winner}  </p>
+        </div>
+        """
+    html_parent += """
+    </body>
+    </html>
+    """
+    with open(f"{date}_updated_games.html", "w") as f:
+        f.write(html_parent)
 
-    # Replace each placeholder in order
-    for i in range (0,len(success_list)):
-        html_content = html_content.replace(
-            "Overall: ?, Spread: ?", 
-            f"Overall: {success_list[i][0]}, Spread: {success_list[i][1]}", 
-            1
-        )
-
-    # Save updated HTML
-    with open(f"{date}_games.html", "w", encoding="utf-8") as file:
-        file.write(html_content)
-    os.chdir(script_dir)
 
     
         
@@ -224,32 +276,42 @@ def find_outcome():
     # Load yesterday's completed scores
     results_url = f"https://api.the-odds-api.com/v4/sports/basketball_nba/scores/?daysFrom=1&apiKey=444beff304152507097f09cc2d6a2751"
     response_result = requests.get(results_url).json()
-    
+    print(response_result)
     success_list = []
-
-    for result in response_result:
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    date = yesterday
+    os.chdir(date)
+    for result in range(0,len(response_result)):
+        print(result)
         # Skip games without scores or incomplete
-        if not result.get('scores') or not result.get('completed', False):
+        if not response_result[result]["completed"] == True:
             continue
-
+        result = response_result[result]
         home_team_name = result['home_team']
         away_team_name = result['away_team']
 
         # Find scores safely
-        try:
-            home_score = int(next(s['score'] for s in result['scores'] if s['name'] == home_team_name))
-            away_score = int(next(s['score'] for s in result['scores'] if s['name'] == away_team_name))
-        except StopIteration:
-            # Skip if scores not found
-            continue
-
+        if home_team_name == result["scores"][0]:
+            count = 0
+            counta= 1
+        else:
+            count = 1
+            counta= 0
+        home_score = int(result["scores"][counta]["score"])
+        away_score = int(result["scores"][count]["score"])
+        print(home_team_name,home_score)
+        with open(f"{date}_games.json", "r", encoding="utf-8") as f:
+            games = json.load(f)
         # Find corresponding game in your 'games' list
-        game_match = next((g for g in games if g[0]['home_team'] == home_team_name and g[1]['away_team'] == away_team_name), None)
-        if not game_match:
-            continue
+        for i in range (0,len(games)):
+            print(games[i][0]["home_team"])
+            print(home_team_name)
+            if str(home_team_name) == str(games[i][0]["home_team"]):
+                game_match = games[i]
+        print("game",game_match)
 
-        home_odds = game_match[0]['odds']
-        away_odds = game_match[1]['odds']
+        home_odds = int(game_match[0]['odds'])
+        away_odds = int(game_match[1]['odds'])
         spread = game_match[3]
 
         # Determine winners
@@ -260,9 +322,9 @@ def find_outcome():
             spread_winner = "home" if (home_score - spread) > away_score else "away"
         else:
             spread_winner = "home" if home_score > (away_score - spread) else "away"
-
+        print(overall_winner,"hihi")
         success_list.append([overall_winner, spread_winner])
-
+    os.chdir(script_dir)
     return success_list
 
 
@@ -344,7 +406,11 @@ def get_response_api():
         away = {"away_team": away_team, "odds": away_odds_moneyline}
 
         games.append([home, away, spread, odds_spread])
-
+    os.makedirs(date, exist_ok=True)
+    os.chdir(date)
+    with open(f"{date}_games.json", "w", encoding="utf-8") as f:
+        json.dump(games, f, indent=4)
+            
     return games
 
 games = []
@@ -353,5 +419,5 @@ save_file()
 # update_html(f"2025-{month}-{yesterday}")
 generate_index_html()
 repo_dir = "C:\handicap_guess"
-update_html(yesterday)
+create_updated_html()
 upload_to_github(repo_dir)
