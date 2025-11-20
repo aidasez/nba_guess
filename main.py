@@ -1,6 +1,6 @@
 import requests
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 import os
 import subprocess
 spreads = "https://api.the-odds-api.com/v4/sports/basketball_nba/odds/?apiKey=444beff304152507097f09cc2d6a2751&regions=uk&markets=spreads"
@@ -11,7 +11,10 @@ response_moneyline = requests.get(moneyline)
 response_moneyline = response_moneyline.json()
 date = datetime.now().strftime("%Y-%m-%d")
 month = datetime.now().strftime("%m")
-yesterday = int(datetime.now().strftime("%d")) - 1
+yesterday = datetime.now() - timedelta(days=1)
+yesterday = yesterday.strftime("%Y-%m-%d")
+print(date)
+print(yesterday)
 def generate_index_html(base_dir=None):
     """
     Generates an index.html in the base_dir that links to all *_games.html files
@@ -195,8 +198,9 @@ def create_html():
     with open(f"{date}_games.html", "w") as f:
         f.write(html_parent)
 def update_html(date):
-    success_list = find_outcome(date)
-
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    success_list = find_outcome()
+    os.chdir(date)
     with open(f"{date}_games.html", "r", encoding="utf-8") as file:
         html_content = file.read()
 
@@ -211,39 +215,56 @@ def update_html(date):
     # Save updated HTML
     with open(f"{date}_games.html", "w", encoding="utf-8") as file:
         file.write(html_content)
+    os.chdir(script_dir)
 
     
         
             
-def find_outcome(date):
-    # Load scores
-    results_url = f"https://api.the-odds-api.com/v4/sports/basketball_nba/scores/?apiKey=444beff304152507097f09cc2d6a2751&dateFormat={date}"
+def find_outcome():
+    # Load yesterday's completed scores
+    results_url = f"https://api.the-odds-api.com/v4/sports/basketball_nba/scores/?daysFrom=1&apiKey=444beff304152507097f09cc2d6a2751"
     response_result = requests.get(results_url).json()
-
+    
     success_list = []
 
-    for i in range(len(response_result)):
-        # Get scores
-        home_score = int(next(s['score'] for s in response_result[i]['scores'] if s['name'] == games[i][0]['home_team']))
-        away_score = int(next(s['score'] for s in response_result[i]['scores'] if s['name'] == games[i][1]['away_team']))
+    for result in response_result:
+        # Skip games without scores or incomplete
+        if not result.get('scores') or not result.get('completed', False):
+            continue
 
-        # Determine overall winner
+        home_team_name = result['home_team']
+        away_team_name = result['away_team']
+
+        # Find scores safely
+        try:
+            home_score = int(next(s['score'] for s in result['scores'] if s['name'] == home_team_name))
+            away_score = int(next(s['score'] for s in result['scores'] if s['name'] == away_team_name))
+        except StopIteration:
+            # Skip if scores not found
+            continue
+
+        # Find corresponding game in your 'games' list
+        game_match = next((g for g in games if g[0]['home_team'] == home_team_name and g[1]['away_team'] == away_team_name), None)
+        if not game_match:
+            continue
+
+        home_odds = game_match[0]['odds']
+        away_odds = game_match[1]['odds']
+        spread = game_match[3]
+
+        # Determine winners
         overall_winner = "home" if home_score > away_score else "away"
+        favourite = "home" if home_odds < away_odds else "away"  # lowest odds = favourite
 
-        # Determine favourite by moneyline odds
-        favourite = "home" if games[i][0]["odds"] > games[i][1]["odds"] else "away"
-
-        # Determine spread winner
-        spread = games[i][3]
         if favourite == "home":
             spread_winner = "home" if (home_score - spread) > away_score else "away"
         else:
-            spread_winner = "home" if (home_score) > (away_score - spread) else "away"
+            spread_winner = "home" if home_score > (away_score - spread) else "away"
 
-        # Save success
         success_list.append([overall_winner, spread_winner])
 
     return success_list
+
 
             
             
@@ -252,45 +273,85 @@ def find_outcome(date):
     
     
 def get_response_api():
-    for i in range (0,len(response_moneyline)):
-        print(i)
-        favourite = 0
-        home_team = response_spreads[i]["home_team"]
-        away_team = response_spreads[i]["away_team"]
-        hname = home_team[0]
-        temp = response_moneyline[i]["bookmakers"][0]["markets"][0]["outcomes"][0]
-        print("temp",temp)
-        temp = list(temp.values())[0][0]
-        print("temp",temp)
-        print("hname",hname)
-        
-        if temp == hname:
-            home_odds_moneyline = response_moneyline[i]["bookmakers"][0]["markets"][0]["outcomes"][favourite]["price"]
-            away_odds_moneyline = response_moneyline[i]["bookmakers"][0]["markets"][0]["outcomes"][favourite+1]["price"]
+    games = []
+
+    for i in range(len(response_moneyline)):
+        # --- SAFETY: ensure matching index exists in spreads ---
+        if i >= len(response_spreads):
+            continue
+
+        money = response_moneyline[i]
+        spreads = response_spreads[i]
+
+        # --- SAFETY: validate bookmakers / markets / outcomes exist ---
+        if not money.get("bookmakers"):
+            continue
+        if not spreads.get("bookmakers"):
+            continue
+
+        money_bm = money["bookmakers"][0]
+        spread_bm = spreads["bookmakers"][0]
+
+        if not money_bm.get("markets"):
+            continue
+        if not spread_bm.get("markets"):
+            continue
+
+        money_market = money_bm["markets"][0]
+        spread_market = spread_bm["markets"][0]
+
+        if not money_market.get("outcomes"):
+            continue
+        if not spread_market.get("outcomes"):
+            continue
+
+        money_outcomes = money_market["outcomes"]
+        spread_outcomes = spread_market["outcomes"]
+
+        if len(money_outcomes) < 2:
+            continue
+        if len(spread_outcomes) < 2:
+            continue
+
+        # --- TEAMS ---
+        home_team = spreads["home_team"]
+        away_team = spreads["away_team"]
+
+        # identify which outcome corresponds to home team
+        # (API always places outcomes in order: away, home)
+        away_name = money_outcomes[0]["name"]
+        home_name = money_outcomes[1]["name"]
+
+        # find correct odds
+        if home_name == home_team:
+            home_odds_moneyline = money_outcomes[1]["price"]
+            away_odds_moneyline = money_outcomes[0]["price"]
+            favourite_index = 1 if home_odds_moneyline > away_odds_moneyline else 0
         else:
-            home_odds_moneyline = response_moneyline[i]["bookmakers"][0]["markets"][0]["outcomes"][favourite+1]["price"]
-            away_odds_moneyline = response_moneyline[i]["bookmakers"][0]["markets"][0]["outcomes"][favourite]["price"]
-        home = {
-            "home_team": home_team,
-            "odds": home_odds_moneyline
-        }
-        away = {
-            "away_team": away_team,
-            "odds": away_odds_moneyline
-        }
-        if home_odds_moneyline > away_odds_moneyline:
-            favourite = 1
-        spread  = response_spreads[i]["bookmakers"][0]["markets"][0]["outcomes"][favourite]["point"]
-        
-        odds_spread = response_spreads[i]["bookmakers"][0]["markets"][0]["outcomes"][favourite]["price"]
-        
-        games.append([home,away,spread,odds_spread])
+            # API flipped ordering… we match by name
+            home_idx = 0 if money_outcomes[0]["name"] == home_team else 1
+            away_idx = 1 - home_idx
+            home_odds_moneyline = money_outcomes[home_idx]["price"]
+            away_odds_moneyline = money_outcomes[away_idx]["price"]
+            favourite_index = home_idx if home_odds_moneyline < away_odds_moneyline else away_idx
+
+        # --- SPREAD ---
+        # favourite_index is safe now (0 or 1)
+        spread = spread_outcomes[favourite_index]["point"]
+        odds_spread = spread_outcomes[favourite_index]["price"]
+
+        home = {"home_team": home_team, "odds": home_odds_moneyline}
+        away = {"away_team": away_team, "odds": away_odds_moneyline}
+
+        games.append([home, away, spread, odds_spread])
 
     return games
+
 games = []
 games = get_response_api()
 save_file()
 # update_html(f"2025-{month}-{yesterday}")
 generate_index_html()
 repo_dir = "C:\handicap_guess"
+update_html(yesterday)
 upload_to_github(repo_dir)
