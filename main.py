@@ -201,6 +201,7 @@ def create_html():
         f.write(html_parent)
         
 def create_updated_html():
+    date = yesterday
     html_parent = f"""
     <!DOCTYPE html>
     <html>
