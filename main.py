@@ -205,10 +205,10 @@ def update_html(date):
         html_content = file.read()
 
     # Replace each placeholder in order
-    for overall, spread in success_list:
+    for i in range (0,len(success_list)):
         html_content = html_content.replace(
             "Overall: ?, Spread: ?", 
-            f"Overall: {overall}, Spread: {spread}", 
+            f"Overall: {success_list[i][0]}, Spread: {success_list[i][1]}", 
             1
         )
 
