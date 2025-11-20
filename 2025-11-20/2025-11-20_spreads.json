@@ -10,11 +10,11 @@
             {
                 "key": "sport888",
                 "title": "888sport",
-                "last_update": "2025-11-20T14:12:36Z",
+                "last_update": "2025-11-20T14:18:21Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-20T14:12:36Z",
+                        "last_update": "2025-11-20T14:18:21Z",
                         "outcomes": [
                             {
                                 "name": "Los Angeles Clippers",
@@ -33,11 +33,11 @@
             {
                 "key": "matchbook",
                 "title": "Matchbook",
-                "last_update": "2025-11-20T14:13:17Z",
+                "last_update": "2025-11-20T14:18:05Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-20T14:13:17Z",
+                        "last_update": "2025-11-20T14:18:05Z",
                         "outcomes": [
                             {
                                 "name": "Los Angeles Clippers",
@@ -56,11 +56,11 @@
             {
                 "key": "leovegas",
                 "title": "LeoVegas",
-                "last_update": "2025-11-20T14:12:52Z",
+                "last_update": "2025-11-20T14:17:28Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-20T14:12:52Z",
+                        "last_update": "2025-11-20T14:17:28Z",
                         "outcomes": [
                             {
                                 "name": "Los Angeles Clippers",
@@ -79,11 +79,11 @@
             {
                 "key": "ladbrokes_uk",
                 "title": "Ladbrokes",
-                "last_update": "2025-11-20T14:12:21Z",
+                "last_update": "2025-11-20T14:18:06Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-20T14:12:21Z",
+                        "last_update": "2025-11-20T14:18:06Z",
                         "outcomes": [
                             {
                                 "name": "Los Angeles Clippers",
@@ -102,11 +102,11 @@
             {
                 "key": "coral",
                 "title": "Coral",
-                "last_update": "2025-11-20T14:13:04Z",
+                "last_update": "2025-11-20T14:17:39Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-20T14:13:04Z",
+                        "last_update": "2025-11-20T14:17:39Z",
                         "outcomes": [
                             {
                                 "name": "Los Angeles Clippers",
@@ -135,21 +135,21 @@
             {
                 "key": "sport888",
                 "title": "888sport",
-                "last_update": "2025-11-20T14:12:36Z",
+                "last_update": "2025-11-20T14:18:21Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-20T14:12:36Z",
+                        "last_update": "2025-11-20T14:18:21Z",
                         "outcomes": [
                             {
                                 "name": "Atlanta Hawks",
-                                "price": 1.95,
-                                "point": -1.5
+                                "price": 1.85,
+                                "point": 1.5
                             },
                             {
                                 "name": "San Antonio Spurs",
-                                "price": 1.85,
-                                "point": 1.5
+                                "price": 1.91,
+                                "point": -1.5
                             }
                         ]
                     }
@@ -158,11 +158,11 @@
             {
                 "key": "leovegas",
                 "title": "LeoVegas",
-                "last_update": "2025-11-20T14:12:52Z",
+                "last_update": "2025-11-20T14:17:28Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-20T14:12:52Z",
+                        "last_update": "2025-11-20T14:17:28Z",
                         "outcomes": [
                             {
                                 "name": "Atlanta Hawks",
@@ -181,11 +181,11 @@
             {
                 "key": "matchbook",
                 "title": "Matchbook",
-                "last_update": "2025-11-20T14:13:17Z",
+                "last_update": "2025-11-20T14:18:05Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-20T14:13:17Z",
+                        "last_update": "2025-11-20T14:18:05Z",
                         "outcomes": [
                             {
                                 "name": "Atlanta Hawks",
@@ -204,11 +204,11 @@
             {
                 "key": "ladbrokes_uk",
                 "title": "Ladbrokes",
-                "last_update": "2025-11-20T14:12:21Z",
+                "last_update": "2025-11-20T14:18:06Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-20T14:12:21Z",
+                        "last_update": "2025-11-20T14:18:06Z",
                         "outcomes": [
                             {
                                 "name": "Atlanta Hawks",
@@ -227,11 +227,11 @@
             {
                 "key": "coral",
                 "title": "Coral",
-                "last_update": "2025-11-20T14:13:04Z",
+                "last_update": "2025-11-20T14:17:39Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-20T14:13:04Z",
+                        "last_update": "2025-11-20T14:17:39Z",
                         "outcomes": [
                             {
                                 "name": "Atlanta Hawks",
@@ -260,11 +260,11 @@
             {
                 "key": "sport888",
                 "title": "888sport",
-                "last_update": "2025-11-20T14:12:36Z",
+                "last_update": "2025-11-20T14:18:21Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-20T14:12:36Z",
+                        "last_update": "2025-11-20T14:18:21Z",
                         "outcomes": [
                             {
                                 "name": "Memphis Grizzlies",
@@ -283,11 +283,11 @@
             {
                 "key": "leovegas",
                 "title": "LeoVegas",
-                "last_update": "2025-11-20T14:12:52Z",
+                "last_update": "2025-11-20T14:17:28Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-20T14:12:52Z",
+                        "last_update": "2025-11-20T14:17:28Z",
                         "outcomes": [
                             {
                                 "name": "Memphis Grizzlies",
@@ -306,11 +306,11 @@
             {
                 "key": "matchbook",
                 "title": "Matchbook",
-                "last_update": "2025-11-20T14:13:17Z",
+                "last_update": "2025-11-20T14:18:05Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-20T14:13:17Z",
+                        "last_update": "2025-11-20T14:18:05Z",
                         "outcomes": [
                             {
                                 "name": "Memphis Grizzlies",
@@ -329,11 +329,11 @@
             {
                 "key": "coral",
                 "title": "Coral",
-                "last_update": "2025-11-20T14:13:04Z",
+                "last_update": "2025-11-20T14:17:39Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-20T14:13:04Z",
+                        "last_update": "2025-11-20T14:17:39Z",
                         "outcomes": [
                             {
                                 "name": "Memphis Grizzlies",
@@ -352,11 +352,11 @@
             {
                 "key": "ladbrokes_uk",
                 "title": "Ladbrokes",
-                "last_update": "2025-11-20T14:12:21Z",
+                "last_update": "2025-11-20T14:18:06Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-20T14:12:21Z",
+                        "last_update": "2025-11-20T14:18:06Z",
                         "outcomes": [
                             {
                                 "name": "Memphis Grizzlies",
@@ -385,21 +385,21 @@
             {
                 "key": "sport888",
                 "title": "888sport",
-                "last_update": "2025-11-20T14:12:36Z",
+                "last_update": "2025-11-20T14:18:21Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-20T14:12:36Z",
+                        "last_update": "2025-11-20T14:18:21Z",
                         "outcomes": [
                             {
                                 "name": "Milwaukee Bucks",
-                                "price": 1.85,
-                                "point": 2.5
+                                "price": 1.95,
+                                "point": 1.5
                             },
                             {
                                 "name": "Philadelphia 76ers",
-                                "price": 1.91,
-                                "point": -2.5
+                                "price": 1.85,
+                                "point": -1.5
                             }
                         ]
                     }
@@ -408,11 +408,11 @@
             {
                 "key": "leovegas",
                 "title": "LeoVegas",
-                "last_update": "2025-11-20T14:12:52Z",
+                "last_update": "2025-11-20T14:17:28Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-20T14:12:52Z",
+                        "last_update": "2025-11-20T14:17:28Z",
                         "outcomes": [
                             {
                                 "name": "Milwaukee Bucks",
@@ -431,11 +431,11 @@
             {
                 "key": "matchbook",
                 "title": "Matchbook",
-                "last_update": "2025-11-20T14:13:17Z",
+                "last_update": "2025-11-20T14:18:05Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-20T14:13:17Z",
+                        "last_update": "2025-11-20T14:18:05Z",
                         "outcomes": [
                             {
                                 "name": "Milwaukee Bucks",
@@ -454,11 +454,11 @@
             {
                 "key": "coral",
                 "title": "Coral",
-                "last_update": "2025-11-20T14:13:04Z",
+                "last_update": "2025-11-20T14:17:39Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-20T14:13:04Z",
+                        "last_update": "2025-11-20T14:17:39Z",
                         "outcomes": [
                             {
                                 "name": "Milwaukee Bucks",
@@ -477,11 +477,11 @@
             {
                 "key": "ladbrokes_uk",
                 "title": "Ladbrokes",
-                "last_update": "2025-11-20T14:12:21Z",
+                "last_update": "2025-11-20T14:18:06Z",
                 "markets": [
                     {
                         "key": "spreads",
-                        "last_update": "2025-11-20T14:12:21Z",
+                        "last_update": "2025-11-20T14:18:06Z",
                         "outcomes": [
                             {
                                 "name": "Milwaukee Bucks",
