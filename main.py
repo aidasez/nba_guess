@@ -201,7 +201,9 @@ def create_html():
         f.write(html_parent)
         
 def create_updated_html():
+    script_dir = os.path.dirname(os.path.abspath(__file__))
     date = yesterday
+    os.chdir(date)
     html_parent = f"""
     <!DOCTYPE html>
     <html>
@@ -241,13 +243,16 @@ def create_updated_html():
     </head>
     <body>
     """
+    success_list = find_outcome()
+    print(os.getcwd())
+    os.chdir(date)
+    with open(f"{date}_games.json", "r", encoding="utf-8") as f:
+            games = json.load(f)
     for i in range(0,len(games)):
         if games[i][2] > 0 :
             plusminus = "+"
         else:
             plusminus = ""
-        success_list = find_outcome()
-        time.sleep(1)
         print("success list",success_list)
         success_overall_winner = success_list[i][0]
         success_spread_winner = success_list[i][1]
@@ -268,7 +273,7 @@ def create_updated_html():
     """
     with open(f"{date}_updated_games.html", "w") as f:
         f.write(html_parent)
-
+    os.chdir(script_dir)
 
     
         
@@ -281,9 +286,9 @@ def find_outcome():
     success_list = []
     script_dir = os.path.dirname(os.path.abspath(__file__))
     date = yesterday
-    os.chdir(date)
+    print(date)
     for result in range(0,len(response_result)):
-        print(result)
+        
         # Skip games without scores or incomplete
         if not response_result[result]["completed"] == True:
             continue
@@ -300,7 +305,7 @@ def find_outcome():
             counta= 0
         home_score = int(result["scores"][counta]["score"])
         away_score = int(result["scores"][count]["score"])
-        print(home_team_name,home_score)
+        
         with open(f"{date}_games.json", "r", encoding="utf-8") as f:
             games = json.load(f)
         # Find corresponding game in your 'games' list
@@ -411,9 +416,9 @@ def get_response_api():
     os.chdir(date)
     with open(f"{date}_games.json", "w", encoding="utf-8") as f:
         json.dump(games, f, indent=4)
-            
+    os.chdir(script_dir)
     return games
-
+script_dir = os.path.dirname(os.path.abspath(__file__))
 games = []
 games = get_response_api()
 save_file()
