@@ -409,11 +409,16 @@ def get_response_api():
             away_idx = 1 - home_idx
             home_odds_moneyline = money_outcomes[home_idx]["price"]
             away_odds_moneyline = money_outcomes[away_idx]["price"]
-            favourite_index = home_idx if home_odds_moneyline < away_odds_moneyline else away_idx
 
         # --- SPREAD ---
         # favourite_index is safe now (0 or 1)
-        spread = spread_outcomes[favourite_index]["point"]
+        if spread_outcomes[0]["point"] >0:
+            spread = spread_outcomes[1]["point"]
+            favourite_index = 1
+        else:
+            favourite_index = 0
+            spread = spread_outcomes[0]["point"]
+        
         odds_spread = spread_outcomes[favourite_index]["price"]
 
         home = {"home_team": home_team, "odds": home_odds_moneyline}
