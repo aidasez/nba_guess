@@ -14,8 +14,6 @@ date = datetime.now().strftime("%Y-%m-%d")
 month = datetime.now().strftime("%m")
 yesterday = datetime.now() - timedelta(days=1)
 yesterday = yesterday.strftime("%Y-%m-%d")
-print(date)
-print(yesterday)
 def generate_index_html(base_dir=None):
     """
     Generates an index.html in the base_dir that links to all *_games.html files
@@ -248,6 +246,17 @@ def create_updated_html():
     os.chdir(date)
     with open(f"{date}_games.json", "r", encoding="utf-8") as f:
             games = json.load(f)
+    
+    team_order = []
+    for match in games:
+        team_order.append(match[0]["home_team"])   # add home team
+        team_order.append(match[1]["away_team"])   # add away team
+
+# now sort success_list by the index of the team name in team_order
+    success_list = sorted(success_list, key=lambda x: team_order.index(x[1]))
+            
+            
+            
     for i in range(0,len(games)):
         # if games[i][2] > 0 :
         #     plusminus = "+"
@@ -256,6 +265,7 @@ def create_updated_html():
         print("success list",success_list)
         success_overall_winner = success_list[i][0]
         success_spread_winner = success_list[i][1]
+        print("success_list",success_list)
         html_parent += f"""
         <div class="game-box">
         <h2>{games[i][0]["home_team"]}
@@ -282,11 +292,11 @@ def find_outcome():
     # Load yesterday's completed scores
     results_url = f"https://api.the-odds-api.com/v4/sports/basketball_nba/scores/?daysFrom=1&apiKey=444beff304152507097f09cc2d6a2751"
     response_result = requests.get(results_url).json()
-    print(response_result)
+    
     success_list = []
     script_dir = os.path.dirname(os.path.abspath(__file__))
     date = yesterday
-    print(date)
+    
     for result in range(0,len(response_result)):
         
         # Skip games without scores or incomplete
@@ -335,7 +345,6 @@ def find_outcome():
             overall_winner = f"{home_score} {game_match[0]["home_team"]} - {away_score} {game_match[1]["away_team"]} "
         else:
             overall_winner = f"{away_score} {game_match[1]["away_team"]} - {home_score} {game_match[0]["home_team"]}"
-        print(overall_winner,"hihi")
         success_list.append([overall_winner, spread_winner])
     os.chdir(script_dir)
     return success_list
