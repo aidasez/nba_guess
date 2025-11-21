@@ -328,10 +328,10 @@ def table_update(success_list,games):
         u4 = ""
         if home_team == success_overall_winner:
             u1 = "<u>"
-            u2 = "/<u>"
+            u2 = "</u>"
         else:
             u3 = "<u>"
-            u4 = "/<u>"
+            u4 = "</u>"
         score1 = success_list[i][0][1]
         score2 = success_list[i][0][3]
         success_spread_winner = success_list[i][1]
