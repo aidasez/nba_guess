@@ -4,8 +4,8 @@ import json
 from datetime import datetime, timedelta
 import os
 import subprocess
-spreads = "https://api.the-odds-api.com/v4/sports/basketball_nba/odds/?apiKey=444beff304152507097f09cc2d6a2751&regions=uk&markets=spreads"
-moneyline = "https://api.the-odds-api.com/v4/sports/basketball_nba/odds/?apiKey=444beff304152507097f09cc2d6a2751&regions=uk&markets=h2h"
+spreads = "https://api.the-odds-api.com/v4/sports/basketball_nba/odds/?apiKey=3e5956fb272da60f9991d0c26996e9fb&regions=uk&markets=spreads"
+moneyline = "https://api.the-odds-api.com/v4/sports/basketball_nba/odds/?apiKey=3e5956fb272da60f9991d0c26996e9fb&regions=uk&markets=h2h"
 response_spreads = requests.get(spreads)
 response_spreads = response_spreads.json()
 response_moneyline = requests.get(moneyline)
@@ -263,7 +263,10 @@ def create_updated_html():
         # else:
         #     plusminus = ""
         print("success list",success_list)
-        success_overall_winner = success_list[i][0]
+        success_overall_winner_name = success_list[i][0][0]
+        success_overall_loser_name = success_list[i][0][2]
+        score1 = success_list[i][0][1]
+        score2 = success_list[i][0][3]
         success_spread_winner = success_list[i][1]
         print("success_list",success_list)
         html_parent += f"""
@@ -272,9 +275,10 @@ def create_updated_html():
         <p><em>  {games[i][0]["odds"]}</p></em> 
         {games[i][1]["away_team"]}
         <p><em>  {games[i][1]["odds"]}</p></em></h2>
+        <p><strong>Score: {success_overall_winner_name} {score1} - {score2} {success_overall_loser_name}</strong></p>
         <p><strong>Spread: {games[i][2]}</strong></p>
         <p><strong>Odds of Spread:</strong> {games[i][3]}</p>
-        <p><strong>Success: </strong> Overall: {success_overall_winner}, Spread: {success_spread_winner}  </p>
+        <p><strong>Success: </strong> Overall: {success_overall_winner_name}, Spread: {success_spread_winner}  </p>
         </div>
         """
     html_parent += """
@@ -284,21 +288,52 @@ def create_updated_html():
     with open(f"{date}_updated_games.html", "w") as f:
         f.write(html_parent)
     os.chdir(script_dir)
+    table_update(success_list,games)
 
+def table_update(success_list,games):
+    html_parent = """"""
+    html_parent += """
+    <table>"""
     
-        
+    for i in range (0,len(games)):
+        home_team = games[i][0]["home_team"]
+        away_team = games[i][1]["away_team"]
+        home_team_moneyline = games[i][0]["odds"]
+        away_team_moneyline = games[i][1]["odds"]
+        spread = games[i][2]
+        spread_odds = games[i][3]
+        success_overall_winner = success_list[i][0][0]
+        score1 = success_list[i][0][1]
+        score2 = success_list[i][0][3]
+        success_spread_winner = success_list[i][1]
+        html_parent += f"""
+        <tr>
+            <td>{home_team} vs {away_team}</td>
+            <td>{score1} - {score2}</td>
+            <td>{spread}</td>
+            <td>{home_team_moneyline} vs {away_team_moneyline}</td>
+            <td>{spread_odds}</td>
+            <td>{success_overall_winner}</td>
+            <td>{success_spread_winner}</td>
+        </tr>"""
+    html_parent += """
+    </table>
+    </html>
+    """
+    with open("table.html", "w") as f:
+        f.write(html_parent)
             
 def find_outcome():
     # Load yesterday's completed scores
-    results_url = f"https://api.the-odds-api.com/v4/sports/basketball_nba/scores/?daysFrom=1&apiKey=444beff304152507097f09cc2d6a2751"
+    results_url = f"https://api.the-odds-api.com/v4/sports/basketball_nba/scores/?daysFrom=1&apiKey=3e5956fb272da60f9991d0c26996e9fb"
     response_result = requests.get(results_url).json()
-    
+    print("response result",response_result)
     success_list = []
     script_dir = os.path.dirname(os.path.abspath(__file__))
     date = yesterday
     
     for result in range(0,len(response_result)):
-        
+        print(response_result)
         # Skip games without scores or incomplete
         if not response_result[result]["completed"] == True:
             continue
@@ -342,9 +377,12 @@ def find_outcome():
         else:
             spread_winner = game_match[1]["away_team"]
         if overall_winner == "home":
-            overall_winner = f"{home_score} {game_match[0]["home_team"]} - {away_score} {game_match[1]["away_team"]} "
+            # overall_winner = f"{home_score} {game_match[0]["home_team"]} - {away_score} {game_match[1]["away_team"]} "
+            overall_winner = [game_match[0]["home_team"],  home_score, 
+                             game_match[1]["away_team"],  away_score]
         else:
-            overall_winner = f"{away_score} {game_match[1]["away_team"]} - {home_score} {game_match[0]["home_team"]}"
+            overall_winner = [game_match[1]["away_team"],  away_score, 
+                             game_match[0]["home_team"],  home_score]
         success_list.append([overall_winner, spread_winner])
     os.chdir(script_dir)
     return success_list
@@ -363,7 +401,7 @@ def get_response_api():
         # --- SAFETY: ensure matching index exists in spreads ---
         if i >= len(response_spreads):
             continue
-
+        print(response_moneyline)
         money = response_moneyline[i]
         spreads = response_spreads[i]
 
