@@ -291,39 +291,12 @@ def create_updated_html():
     table_update(success_list,games)
 
 def table_update(success_list,games):
-    html_parent = """
-    <style>
-    table {
-        width: 100%;
-        border-collapse: collapse;
-        margin: 20px 0;
-        font-family: Arial, sans-serif;
-    }
-    th, td {
-        padding: 10px;
-        border: 1px solid #ddd;
-        text-align: left;
-    }
-    th {
-        background-color: #f4f4f4;
-    }
-    tr:nth-child(even) {
-        background-color: #f9f9f9;
-    }
-</style>
-<table>
-<tr>
-        <th>Game</th>
-        <th>Score</th>
-        <th>Spread</th>
-        <th>Spread Odds</th>
-        <th>Moneyline Odds</th>
-        <th>Overall Winner</th>
-        <th>Spread Winner</th>
-        
-    </tr>
-    """
-    
+    with open("table.html", "r") as f:
+        table = f.read()
+    table = table[:-2]
+    with open("table.html", "w") as f:
+        f.write(table) 
+    html_parent = ""
     for i in range (0,len(games)):
         home_team = games[i][0]["home_team"]
         away_team = games[i][1]["away_team"]
