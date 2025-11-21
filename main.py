@@ -310,7 +310,18 @@ def table_update(success_list,games):
     tr:nth-child(even) {
         background-color: #f9f9f9;
     }
-</style>"""
+</style>
+<tr>
+        <th>Game</th>
+        <th>Score</th>
+        <th>Spread</th>
+        <th>Spread Odds</th>
+        <th>Moneyline Odds</th>
+        <th>Overall Winner</th>
+        <th>Spread Winner</th>
+        
+    </tr>
+"""
     html_parent += """
     <table>"""
     
@@ -345,8 +356,8 @@ def table_update(success_list,games):
             <td>{u1}{home_team}{u2} vs {u3}{away_team}{u4}</td>
             <td>{u1}{score1}{u2} - {u3}{score2}{u4}</td>
             <td>{spread}</td>
-            <td>{u1}{home_team_moneyline}{u2} vs {u3}{away_team_moneyline}{u4}</td>
             <td>{spread_odds}</td>
+            <td>{u1}{home_team_moneyline}{u2} vs {u3}{away_team_moneyline}{u4}</td>
             <td>{success_overall_winner}</td>
             <td>{success_spread_winner}</td>
         </tr>"""
