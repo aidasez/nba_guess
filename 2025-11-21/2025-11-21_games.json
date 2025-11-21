@@ -1,0 +1,110 @@
+[
+    [
+        {
+            "home_team": "Cleveland Cavaliers",
+            "odds": 1.1
+        },
+        {
+            "away_team": "Indiana Pacers",
+            "odds": 6.5
+        },
+        -14.0,
+        1.88
+    ],
+    [
+        {
+            "home_team": "Boston Celtics",
+            "odds": 1.08
+        },
+        {
+            "away_team": "Brooklyn Nets",
+            "odds": 7.5
+        },
+        -14.5,
+        1.88
+    ],
+    [
+        {
+            "home_team": "Toronto Raptors",
+            "odds": 1.11
+        },
+        {
+            "away_team": "Washington Wizards",
+            "odds": 6.5
+        },
+        -13.5,
+        1.88
+    ],
+    [
+        {
+            "home_team": "Chicago Bulls",
+            "odds": 1.67
+        },
+        {
+            "away_team": "Miami Heat",
+            "odds": 2.15
+        },
+        -2.5,
+        1.88
+    ],
+    [
+        {
+            "home_team": "Dallas Mavericks",
+            "odds": 1.57
+        },
+        {
+            "away_team": "New Orleans Pelicans",
+            "odds": 2.38
+        },
+        -4.0,
+        1.88
+    ],
+    [
+        {
+            "home_team": "Phoenix Suns",
+            "odds": 2.45
+        },
+        {
+            "away_team": "Minnesota Timberwolves",
+            "odds": 1.53
+        },
+        -4.5,
+        1.88
+    ],
+    [
+        {
+            "home_team": "Houston Rockets",
+            "odds": 1.67
+        },
+        {
+            "away_team": "Denver Nuggets",
+            "odds": 2.15
+        },
+        -2.5,
+        1.85
+    ],
+    [
+        {
+            "home_team": "Golden State Warriors",
+            "odds": 1.29
+        },
+        {
+            "away_team": "Portland Trail Blazers",
+            "odds": 3.5
+        },
+        -8.0,
+        1.85
+    ],
+    [
+        {
+            "home_team": "Utah Jazz",
+            "odds": 8.0
+        },
+        {
+            "away_team": "Oklahoma City Thunder",
+            "odds": 1.07
+        },
+        -7.5,
+        1.2
+    ]
+]

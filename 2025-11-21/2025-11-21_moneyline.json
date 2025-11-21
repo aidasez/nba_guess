@@ -1,0 +1,3144 @@
+[
+    {
+        "id": "58c5d4f9449efc54b2a2ceb71ca6878b",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-11-22T00:00:00Z",
+        "home_team": "Cleveland Cavaliers",
+        "away_team": "Indiana Pacers",
+        "bookmakers": [
+            {
+                "key": "paddypower",
+                "title": "Paddy Power",
+                "last_update": "2025-11-21T19:56:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Cavaliers",
+                                "price": 1.1
+                            },
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2025-11-21T19:56:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Cavaliers",
+                                "price": 1.1
+                            },
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "skybet",
+                "title": "Sky Bet",
+                "last_update": "2025-11-21T19:57:06Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Cavaliers",
+                                "price": 1.11
+                            },
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet (UK)",
+                "last_update": "2025-11-21T19:57:08Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Cavaliers",
+                                "price": 1.12
+                            },
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 7.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "boylesports",
+                "title": "BoyleSports",
+                "last_update": "2025-11-21T19:55:14Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:55:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Cavaliers",
+                                "price": 1.1
+                            },
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betvictor",
+                "title": "Bet Victor",
+                "last_update": "2025-11-21T19:55:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:55:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Cavaliers",
+                                "price": 1.1
+                            },
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2025-11-21T19:56:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Cavaliers",
+                                "price": 1.1
+                            },
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 7.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "leovegas",
+                "title": "LeoVegas",
+                "last_update": "2025-11-21T19:56:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Cavaliers",
+                                "price": 1.08
+                            },
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "virginbet",
+                "title": "Virgin Bet",
+                "last_update": "2025-11-21T19:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Cavaliers",
+                                "price": 1.11
+                            },
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 7.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "livescorebet",
+                "title": "LiveScore Bet",
+                "last_update": "2025-11-21T19:56:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Cavaliers",
+                                "price": 1.11
+                            },
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 7.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_uk",
+                "title": "Ladbrokes",
+                "last_update": "2025-11-21T19:56:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Cavaliers",
+                                "price": 1.08
+                            },
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2025-11-21T19:56:41Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Cavaliers",
+                                "price": 1.08
+                            },
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_uk",
+                "title": "Betfair",
+                "last_update": "2025-11-21T19:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Cavaliers",
+                                "price": 1.14
+                            },
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 7.6
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Cavaliers",
+                                "price": 1.15
+                            },
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 8.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betway",
+                "title": "Betway",
+                "last_update": "2025-11-21T19:57:06Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Cavaliers",
+                                "price": 1.11
+                            },
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 7.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "smarkets",
+                "title": "Smarkets",
+                "last_update": "2025-11-21T19:57:08Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:07Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Cavaliers",
+                                "price": 1.13
+                            },
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 7.6
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2025-11-21T19:57:07Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Cavaliers",
+                                "price": 1.15
+                            },
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 8.2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "58e766fa4c1a69247703beea18def6cf",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-11-22T00:40:00Z",
+        "home_team": "Boston Celtics",
+        "away_team": "Brooklyn Nets",
+        "bookmakers": [
+            {
+                "key": "paddypower",
+                "title": "Paddy Power",
+                "last_update": "2025-11-21T19:56:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.08
+                            },
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "skybet",
+                "title": "Sky Bet",
+                "last_update": "2025-11-21T19:57:06Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.1
+                            },
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 7.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet (UK)",
+                "last_update": "2025-11-21T19:57:08Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.1
+                            },
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 8.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "boylesports",
+                "title": "BoyleSports",
+                "last_update": "2025-11-21T19:55:14Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:55:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.08
+                            },
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 7.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betvictor",
+                "title": "Bet Victor",
+                "last_update": "2025-11-21T19:55:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:55:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.08
+                            },
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 7.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2025-11-21T19:56:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.08
+                            },
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2025-11-21T19:56:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.08
+                            },
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "leovegas",
+                "title": "LeoVegas",
+                "last_update": "2025-11-21T19:56:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.09
+                            },
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 6.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "virginbet",
+                "title": "Virgin Bet",
+                "last_update": "2025-11-21T19:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.12
+                            },
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 6.75
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "livescorebet",
+                "title": "LiveScore Bet",
+                "last_update": "2025-11-21T19:56:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.11
+                            },
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 6.75
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2025-11-21T19:56:41Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.08
+                            },
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_uk",
+                "title": "Ladbrokes",
+                "last_update": "2025-11-21T19:56:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.08
+                            },
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_uk",
+                "title": "Betfair",
+                "last_update": "2025-11-21T19:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.12
+                            },
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 8.6
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.13
+                            },
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 9.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betway",
+                "title": "Betway",
+                "last_update": "2025-11-21T19:57:06Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.09
+                            },
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "smarkets",
+                "title": "Smarkets",
+                "last_update": "2025-11-21T19:57:08Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:07Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.11
+                            },
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 8.4
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2025-11-21T19:57:07Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.13
+                            },
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 9.2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "731fa66351071a1e5cd387fd7087aa8f",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-11-22T00:40:00Z",
+        "home_team": "Toronto Raptors",
+        "away_team": "Washington Wizards",
+        "bookmakers": [
+            {
+                "key": "skybet",
+                "title": "Sky Bet",
+                "last_update": "2025-11-21T19:57:06Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.11
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "paddypower",
+                "title": "Paddy Power",
+                "last_update": "2025-11-21T19:56:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.1
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet (UK)",
+                "last_update": "2025-11-21T19:57:08Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.1
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "boylesports",
+                "title": "BoyleSports",
+                "last_update": "2025-11-21T19:55:14Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:55:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.08
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betvictor",
+                "title": "Bet Victor",
+                "last_update": "2025-11-21T19:55:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:55:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.1
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 6.75
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2025-11-21T19:56:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.1
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2025-11-21T19:56:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.1
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 7.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "virginbet",
+                "title": "Virgin Bet",
+                "last_update": "2025-11-21T19:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.12
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "livescorebet",
+                "title": "LiveScore Bet",
+                "last_update": "2025-11-21T19:56:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.12
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "leovegas",
+                "title": "LeoVegas",
+                "last_update": "2025-11-21T19:56:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.09
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 6.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2025-11-21T19:56:41Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.09
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 7.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_uk",
+                "title": "Ladbrokes",
+                "last_update": "2025-11-21T19:56:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.09
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 7.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_uk",
+                "title": "Betfair",
+                "last_update": "2025-11-21T19:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.13
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 8.2
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.14
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 8.8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betway",
+                "title": "Betway",
+                "last_update": "2025-11-21T19:57:06Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.1
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 7.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "76c06946a763643d09655bdcad0ccd33",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-11-22T01:10:00Z",
+        "home_team": "Chicago Bulls",
+        "away_team": "Miami Heat",
+        "bookmakers": [
+            {
+                "key": "paddypower",
+                "title": "Paddy Power",
+                "last_update": "2025-11-21T19:56:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bulls",
+                                "price": 1.67
+                            },
+                            {
+                                "name": "Miami Heat",
+                                "price": 2.15
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "skybet",
+                "title": "Sky Bet",
+                "last_update": "2025-11-21T19:57:06Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bulls",
+                                "price": 1.67
+                            },
+                            {
+                                "name": "Miami Heat",
+                                "price": 2.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet (UK)",
+                "last_update": "2025-11-21T19:57:08Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bulls",
+                                "price": 1.73
+                            },
+                            {
+                                "name": "Miami Heat",
+                                "price": 2.18
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "boylesports",
+                "title": "BoyleSports",
+                "last_update": "2025-11-21T19:55:14Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:55:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bulls",
+                                "price": 1.67
+                            },
+                            {
+                                "name": "Miami Heat",
+                                "price": 2.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2025-11-21T19:56:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bulls",
+                                "price": 1.67
+                            },
+                            {
+                                "name": "Miami Heat",
+                                "price": 2.15
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betvictor",
+                "title": "Bet Victor",
+                "last_update": "2025-11-21T19:55:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:55:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bulls",
+                                "price": 1.68
+                            },
+                            {
+                                "name": "Miami Heat",
+                                "price": 2.15
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2025-11-21T19:56:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bulls",
+                                "price": 1.73
+                            },
+                            {
+                                "name": "Miami Heat",
+                                "price": 2.1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "leovegas",
+                "title": "LeoVegas",
+                "last_update": "2025-11-21T19:56:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bulls",
+                                "price": 1.68
+                            },
+                            {
+                                "name": "Miami Heat",
+                                "price": 2.08
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "virginbet",
+                "title": "Virgin Bet",
+                "last_update": "2025-11-21T19:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bulls",
+                                "price": 1.74
+                            },
+                            {
+                                "name": "Miami Heat",
+                                "price": 2.15
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "livescorebet",
+                "title": "LiveScore Bet",
+                "last_update": "2025-11-21T19:56:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bulls",
+                                "price": 1.74
+                            },
+                            {
+                                "name": "Miami Heat",
+                                "price": 2.12
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_uk",
+                "title": "Ladbrokes",
+                "last_update": "2025-11-21T19:56:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bulls",
+                                "price": 1.67
+                            },
+                            {
+                                "name": "Miami Heat",
+                                "price": 2.15
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2025-11-21T19:56:41Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bulls",
+                                "price": 1.67
+                            },
+                            {
+                                "name": "Miami Heat",
+                                "price": 2.15
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_uk",
+                "title": "Betfair",
+                "last_update": "2025-11-21T19:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bulls",
+                                "price": 1.76
+                            },
+                            {
+                                "name": "Miami Heat",
+                                "price": 2.28
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bulls",
+                                "price": 1.78
+                            },
+                            {
+                                "name": "Miami Heat",
+                                "price": 2.32
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betway",
+                "title": "Betway",
+                "last_update": "2025-11-21T19:57:06Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bulls",
+                                "price": 1.71
+                            },
+                            {
+                                "name": "Miami Heat",
+                                "price": 2.2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "smarkets",
+                "title": "Smarkets",
+                "last_update": "2025-11-21T19:57:08Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:07Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bulls",
+                                "price": 1.76
+                            },
+                            {
+                                "name": "Miami Heat",
+                                "price": 2.26
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2025-11-21T19:57:07Z",
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bulls",
+                                "price": 1.78
+                            },
+                            {
+                                "name": "Miami Heat",
+                                "price": 2.3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f383ac51e8102cfb59ce70f5e1a308ff",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-11-22T01:40:00Z",
+        "home_team": "Dallas Mavericks",
+        "away_team": "New Orleans Pelicans",
+        "bookmakers": [
+            {
+                "key": "skybet",
+                "title": "Sky Bet",
+                "last_update": "2025-11-21T19:57:06Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.57
+                            },
+                            {
+                                "name": "New Orleans Pelicans",
+                                "price": 2.38
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "paddypower",
+                "title": "Paddy Power",
+                "last_update": "2025-11-21T19:56:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.53
+                            },
+                            {
+                                "name": "New Orleans Pelicans",
+                                "price": 2.45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet (UK)",
+                "last_update": "2025-11-21T19:57:08Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.58
+                            },
+                            {
+                                "name": "New Orleans Pelicans",
+                                "price": 2.45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "boylesports",
+                "title": "BoyleSports",
+                "last_update": "2025-11-21T19:55:14Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:55:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.53
+                            },
+                            {
+                                "name": "New Orleans Pelicans",
+                                "price": 2.38
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betvictor",
+                "title": "Bet Victor",
+                "last_update": "2025-11-21T19:55:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:55:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.55
+                            },
+                            {
+                                "name": "New Orleans Pelicans",
+                                "price": 2.38
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2025-11-21T19:56:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.53
+                            },
+                            {
+                                "name": "New Orleans Pelicans",
+                                "price": 2.45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2025-11-21T19:56:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.57
+                            },
+                            {
+                                "name": "New Orleans Pelicans",
+                                "price": 2.38
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "livescorebet",
+                "title": "LiveScore Bet",
+                "last_update": "2025-11-21T19:56:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.58
+                            },
+                            {
+                                "name": "New Orleans Pelicans",
+                                "price": 2.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "virginbet",
+                "title": "Virgin Bet",
+                "last_update": "2025-11-21T19:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.6
+                            },
+                            {
+                                "name": "New Orleans Pelicans",
+                                "price": 2.43
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "leovegas",
+                "title": "LeoVegas",
+                "last_update": "2025-11-21T19:56:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.54
+                            },
+                            {
+                                "name": "New Orleans Pelicans",
+                                "price": 2.35
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2025-11-21T19:56:41Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.53
+                            },
+                            {
+                                "name": "New Orleans Pelicans",
+                                "price": 2.45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_uk",
+                "title": "Ladbrokes",
+                "last_update": "2025-11-21T19:56:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.53
+                            },
+                            {
+                                "name": "New Orleans Pelicans",
+                                "price": 2.45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_uk",
+                "title": "Betfair",
+                "last_update": "2025-11-21T19:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.61
+                            },
+                            {
+                                "name": "New Orleans Pelicans",
+                                "price": 2.6
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.63
+                            },
+                            {
+                                "name": "New Orleans Pelicans",
+                                "price": 2.64
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "smarkets",
+                "title": "Smarkets",
+                "last_update": "2025-11-21T19:57:08Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:07Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.6
+                            },
+                            {
+                                "name": "New Orleans Pelicans",
+                                "price": 2.56
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2025-11-21T19:57:07Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.63
+                            },
+                            {
+                                "name": "New Orleans Pelicans",
+                                "price": 2.64
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betway",
+                "title": "Betway",
+                "last_update": "2025-11-21T19:57:06Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.57
+                            },
+                            {
+                                "name": "New Orleans Pelicans",
+                                "price": 2.45
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "95d399e5dd6898e13b30f7aafb0ad214",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-11-22T02:10:00Z",
+        "home_team": "Phoenix Suns",
+        "away_team": "Minnesota Timberwolves",
+        "bookmakers": [
+            {
+                "key": "paddypower",
+                "title": "Paddy Power",
+                "last_update": "2025-11-21T19:56:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.53
+                            },
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 2.45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "skybet",
+                "title": "Sky Bet",
+                "last_update": "2025-11-21T19:57:06Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.57
+                            },
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 2.38
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet (UK)",
+                "last_update": "2025-11-21T19:57:08Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.55
+                            },
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "boylesports",
+                "title": "BoyleSports",
+                "last_update": "2025-11-21T19:55:14Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:55:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.53
+                            },
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 2.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betvictor",
+                "title": "Bet Victor",
+                "last_update": "2025-11-21T19:55:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:55:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.53
+                            },
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 2.45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2025-11-21T19:56:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.57
+                            },
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 2.38
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "virginbet",
+                "title": "Virgin Bet",
+                "last_update": "2025-11-21T19:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.54
+                            },
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 2.55
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "livescorebet",
+                "title": "LiveScore Bet",
+                "last_update": "2025-11-21T19:56:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.54
+                            },
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "leovegas",
+                "title": "LeoVegas",
+                "last_update": "2025-11-21T19:56:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.5
+                            },
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 2.45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2025-11-21T19:56:41Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.53
+                            },
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 2.45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_uk",
+                "title": "Ladbrokes",
+                "last_update": "2025-11-21T19:56:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.53
+                            },
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 2.45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_uk",
+                "title": "Betfair",
+                "last_update": "2025-11-21T19:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.59
+                            },
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 2.66
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.6
+                            },
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 2.68
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "smarkets",
+                "title": "Smarkets",
+                "last_update": "2025-11-21T19:57:08Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:07Z",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.57
+                            },
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 2.62
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2025-11-21T19:57:07Z",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.6
+                            },
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 2.68
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2025-11-21T19:56:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.53
+                            },
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 2.45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betway",
+                "title": "Betway",
+                "last_update": "2025-11-21T19:57:06Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.56
+                            },
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8162993fb172c214bf7e7338079a0e79",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-11-22T02:40:00Z",
+        "home_team": "Houston Rockets",
+        "away_team": "Denver Nuggets",
+        "bookmakers": [
+            {
+                "key": "paddypower",
+                "title": "Paddy Power",
+                "last_update": "2025-11-21T19:56:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 2.15
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.67
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "skybet",
+                "title": "Sky Bet",
+                "last_update": "2025-11-21T19:57:06Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 2.1
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.73
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet (UK)",
+                "last_update": "2025-11-21T19:57:08Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 2.15
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.73
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betvictor",
+                "title": "Bet Victor",
+                "last_update": "2025-11-21T19:55:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:55:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 2.1
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.68
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "boylesports",
+                "title": "BoyleSports",
+                "last_update": "2025-11-21T19:55:14Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:55:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 2.1
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.67
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2025-11-21T19:56:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 2.15
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.67
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2025-11-21T19:56:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 2.1
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.73
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_uk",
+                "title": "Betfair",
+                "last_update": "2025-11-21T19:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 2.28
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.75
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 2.32
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.79
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "leovegas",
+                "title": "LeoVegas",
+                "last_update": "2025-11-21T19:56:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 2.1
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.67
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "virginbet",
+                "title": "Virgin Bet",
+                "last_update": "2025-11-21T19:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 2.18
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.72
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "livescorebet",
+                "title": "LiveScore Bet",
+                "last_update": "2025-11-21T19:56:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 2.16
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.71
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_uk",
+                "title": "Ladbrokes",
+                "last_update": "2025-11-21T19:56:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 2.1
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2025-11-21T19:56:41Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 2.1
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "smarkets",
+                "title": "Smarkets",
+                "last_update": "2025-11-21T19:57:08Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:07Z",
+                        "outcomes": [
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 2.24
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.74
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2025-11-21T19:57:07Z",
+                        "outcomes": [
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 2.32
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.79
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betway",
+                "title": "Betway",
+                "last_update": "2025-11-21T19:57:06Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 2.15
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.74
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "460ca5da65548d349cb007bdceb84163",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-11-22T03:10:00Z",
+        "home_team": "Golden State Warriors",
+        "away_team": "Portland Trail Blazers",
+        "bookmakers": [
+            {
+                "key": "paddypower",
+                "title": "Paddy Power",
+                "last_update": "2025-11-21T19:56:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.29
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "skybet",
+                "title": "Sky Bet",
+                "last_update": "2025-11-21T19:57:06Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.3
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 3.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet (UK)",
+                "last_update": "2025-11-21T19:57:08Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.3
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 3.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "boylesports",
+                "title": "BoyleSports",
+                "last_update": "2025-11-21T19:55:14Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:55:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.29
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2025-11-21T19:56:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.29
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2025-11-21T19:56:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.3
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betvictor",
+                "title": "Bet Victor",
+                "last_update": "2025-11-21T19:55:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:55:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.29
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 3.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_uk",
+                "title": "Betfair",
+                "last_update": "2025-11-21T19:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.34
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 3.8
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.36
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 3.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "leovegas",
+                "title": "LeoVegas",
+                "last_update": "2025-11-21T19:56:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.29
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 3.35
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "virginbet",
+                "title": "Virgin Bet",
+                "last_update": "2025-11-21T19:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.32
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 3.55
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "livescorebet",
+                "title": "LiveScore Bet",
+                "last_update": "2025-11-21T19:56:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.32
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 3.45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "smarkets",
+                "title": "Smarkets",
+                "last_update": "2025-11-21T19:57:08Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.33
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 3.7
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2025-11-21T19:57:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.36
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 3.9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_uk",
+                "title": "Ladbrokes",
+                "last_update": "2025-11-21T19:56:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.28
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2025-11-21T19:56:41Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.28
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betway",
+                "title": "Betway",
+                "last_update": "2025-11-21T19:57:06Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.3
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 3.65
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ac0e9728d14d0db6b110a0e7eb050929",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-11-22T03:10:00Z",
+        "home_team": "Utah Jazz",
+        "away_team": "Oklahoma City Thunder",
+        "bookmakers": [
+            {
+                "key": "skybet",
+                "title": "Sky Bet",
+                "last_update": "2025-11-21T19:57:06Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.07
+                            },
+                            {
+                                "name": "Utah Jazz",
+                                "price": 8.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "unibet_uk",
+                "title": "Unibet (UK)",
+                "last_update": "2025-11-21T19:57:08Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.07
+                            },
+                            {
+                                "name": "Utah Jazz",
+                                "price": 9.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "paddypower",
+                "title": "Paddy Power",
+                "last_update": "2025-11-21T19:56:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.07
+                            },
+                            {
+                                "name": "Utah Jazz",
+                                "price": 8.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betvictor",
+                "title": "Bet Victor",
+                "last_update": "2025-11-21T19:55:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:55:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.06
+                            },
+                            {
+                                "name": "Utah Jazz",
+                                "price": 8.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "boylesports",
+                "title": "BoyleSports",
+                "last_update": "2025-11-21T19:55:14Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:55:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.05
+                            },
+                            {
+                                "name": "Utah Jazz",
+                                "price": 8.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill",
+                "title": "William Hill",
+                "last_update": "2025-11-21T19:56:25Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:25Z",
+                        "outcomes": [
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.06
+                            },
+                            {
+                                "name": "Utah Jazz",
+                                "price": 9.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2025-11-21T19:56:41Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:41Z",
+                        "outcomes": [
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.05
+                            },
+                            {
+                                "name": "Utah Jazz",
+                                "price": 9.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_uk",
+                "title": "Ladbrokes",
+                "last_update": "2025-11-21T19:56:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.05
+                            },
+                            {
+                                "name": "Utah Jazz",
+                                "price": 9.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "livescorebet",
+                "title": "LiveScore Bet",
+                "last_update": "2025-11-21T19:56:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:38Z",
+                        "outcomes": [
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.09
+                            },
+                            {
+                                "name": "Utah Jazz",
+                                "price": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "virginbet",
+                "title": "Virgin Bet",
+                "last_update": "2025-11-21T19:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.09
+                            },
+                            {
+                                "name": "Utah Jazz",
+                                "price": 8.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "leovegas",
+                "title": "LeoVegas",
+                "last_update": "2025-11-21T19:56:11Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:11Z",
+                        "outcomes": [
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.07
+                            },
+                            {
+                                "name": "Utah Jazz",
+                                "price": 7.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_ex_uk",
+                "title": "Betfair",
+                "last_update": "2025-11-21T19:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.09
+                            },
+                            {
+                                "name": "Utah Jazz",
+                                "price": 11.0
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2025-11-21T19:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.1
+                            },
+                            {
+                                "name": "Utah Jazz",
+                                "price": 12.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betfair_sb_uk",
+                "title": "Betfair Sportsbook",
+                "last_update": "2025-11-21T19:56:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:56:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.07
+                            },
+                            {
+                                "name": "Utah Jazz",
+                                "price": 8.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betway",
+                "title": "Betway",
+                "last_update": "2025-11-21T19:57:06Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:06Z",
+                        "outcomes": [
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.06
+                            },
+                            {
+                                "name": "Utah Jazz",
+                                "price": 9.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "smarkets",
+                "title": "Smarkets",
+                "last_update": "2025-11-21T19:57:08Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2025-11-21T19:57:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.07
+                            },
+                            {
+                                "name": "Utah Jazz",
+                                "price": 10.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "h2h_lay",
+                        "last_update": "2025-11-21T19:57:08Z",
+                        "outcomes": [
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.1
+                            },
+                            {
+                                "name": "Utah Jazz",
+                                "price": 12.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
