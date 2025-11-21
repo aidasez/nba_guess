@@ -291,12 +291,13 @@ def create_updated_html():
     table_update(success_list,games)
 
 def table_update(success_list,games):
-    with open("table.html", "r") as f:
+    with open("table.html","r") as f:
         table = f.read()
-    table = table[:-2]
-    with open("table.html", "w") as f:
-        f.write(table) 
-    html_parent = table
+    table = table.split("</table>",1)[0]
+    with open("table.html","w") as f:
+        f.write(table)
+    
+    html_parent = ""
     
     for i in range (0,len(games)):
         home_team = games[i][0]["home_team"]
