@@ -310,9 +310,8 @@ def find_outcome():
             games = json.load(f)
         # Find corresponding game in your 'games' list
         for i in range (0,len(games)):
-            print(games[i][0]["home_team"])
-            print(home_team_name)
             if str(home_team_name) == str(games[i][0]["home_team"]):
+                print("found", games[i][0]["home_team"],home_team_name)
                 game_match = games[i]
         print("game",game_match)
 
