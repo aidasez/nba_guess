@@ -311,6 +311,7 @@ def table_update(success_list,games):
         background-color: #f9f9f9;
     }
 </style>
+<table>
 <tr>
         <th>Game</th>
         <th>Score</th>
@@ -321,7 +322,7 @@ def table_update(success_list,games):
         <th>Spread Winner</th>
         
     </tr>
-    <table>"""
+    """
     
     for i in range (0,len(games)):
         home_team = games[i][0]["home_team"]
