@@ -321,8 +321,6 @@ def table_update(success_list,games):
         <th>Spread Winner</th>
         
     </tr>
-"""
-    html_parent += """
     <table>"""
     
     for i in range (0,len(games)):
