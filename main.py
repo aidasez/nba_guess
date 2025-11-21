@@ -333,7 +333,7 @@ def find_outcome():
         else:
             spread_winner = game_match[1]["away_team"]
         if overall_winner == "home":
-            overall_winner = f"{home_score} {game_match[0]["home_team"]} - {away_score} + {game_match[1]["away_team"]} "
+            overall_winner = f"{home_score} {game_match[0]["home_team"]} - {away_score} {game_match[1]["away_team"]} "
         else:
             overall_winner = f"{away_score} {game_match[1]["away_team"]} - {home_score} {game_match[0]["home_team"]}"
         print(overall_winner,"hihi")
