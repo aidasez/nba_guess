@@ -297,7 +297,7 @@ def table_update(success_list,games):
     with open("table.html","w") as f:
         f.write(table)
     
-    html_parent = ""
+    html_parent = table
     
     for i in range (0,len(games)):
         home_team = games[i][0]["home_team"]
