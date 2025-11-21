@@ -325,9 +325,9 @@ def find_outcome():
         favourite = "home" if home_odds < away_odds else "away"  # lowest odds = favourite
 
         if favourite == "home":
-            spread_winner = "home" if (home_score - spread) > away_score else "away"
+            spread_winner = "home" if (home_score + spread) > away_score else "away"
         else:
-            spread_winner = "home" if home_score > (away_score - spread) else "away"
+            spread_winner = "home" if home_score > (away_score + spread) else "away"
         if spread_winner == "home":
             spread_winner = game_match[0]["home_team"]
         else:
