@@ -343,7 +343,7 @@ def table_update(success_list,games):
         html_parent += f"""
         <tr>
             <td>{u1}{home_team}{u2} vs {u3}{away_team}{u4}</td>
-            <td>{score1} - {score2}</td>
+            <td>{u1}{score1}{u2} - {u3}{score2}{u4}</td>
             <td>{spread}</td>
             <td>{u1}{home_team_moneyline}{u2} vs {u3}{away_team_moneyline}{u4}</td>
             <td>{spread_odds}</td>
