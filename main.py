@@ -291,7 +291,26 @@ def create_updated_html():
     table_update(success_list,games)
 
 def table_update(success_list,games):
-    html_parent = """"""
+    html_parent = """
+    <style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 20px 0;
+        font-family: Arial, sans-serif;
+    }
+    th, td {
+        padding: 10px;
+        border: 1px solid #ddd;
+        text-align: left;
+    }
+    th {
+        background-color: #f4f4f4;
+    }
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+</style>"""
     html_parent += """
     <table>"""
     
