@@ -249,10 +249,10 @@ def create_updated_html():
     with open(f"{date}_games.json", "r", encoding="utf-8") as f:
             games = json.load(f)
     for i in range(0,len(games)):
-        if games[i][2] > 0 :
-            plusminus = "+"
-        else:
-            plusminus = ""
+        # if games[i][2] > 0 :
+        #     plusminus = "+"
+        # else:
+        #     plusminus = ""
         print("success list",success_list)
         success_overall_winner = success_list[i][0]
         success_spread_winner = success_list[i][1]
@@ -262,7 +262,7 @@ def create_updated_html():
         <p><em>  {games[i][0]["odds"]}</p></em> 
         {games[i][1]["away_team"]}
         <p><em>  {games[i][1]["odds"]}</p></em></h2>
-        <p><strong>Spread: {plusminus}{games[i][2]}</strong></p>
+        <p><strong>Spread: {games[i][2]}</strong></p>
         <p><strong>Odds of Spread:</strong> {games[i][3]}</p>
         <p><strong>Success: </strong> Overall: {success_overall_winner}, Spread: {success_spread_winner}  </p>
         </div>
