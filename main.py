@@ -303,12 +303,22 @@ def table_update(success_list,games):
         spread = games[i][2]
         spread_odds = games[i][3]
         success_overall_winner = success_list[i][0][0]
+        u1 = ""
+        u2 = ""
+        u3 = ""
+        u4 = ""
+        if home_team == success_overall_winner:
+            u1 = "<u>"
+            u2 = "/<u>"
+        else:
+            u3 = "<u>"
+            u4 = "/<u>"
         score1 = success_list[i][0][1]
         score2 = success_list[i][0][3]
         success_spread_winner = success_list[i][1]
         html_parent += f"""
         <tr>
-            <td>{home_team} vs {away_team}</td>
+            <td>{u1}{home_team}{u2} vs {u3}{away_team}{u4}</td>
             <td>{score1} - {score2}</td>
             <td>{spread}</td>
             <td>{home_team_moneyline} vs {away_team_moneyline}</td>
