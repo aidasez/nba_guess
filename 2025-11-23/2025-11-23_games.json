@@ -1,0 +1,98 @@
+[
+    [
+        {
+            "home_team": "Philadelphia 76ers",
+            "odds": 1.87
+        },
+        {
+            "away_team": "Miami Heat",
+            "odds": 1.95
+        },
+        -1.5,
+        1.95
+    ],
+    [
+        {
+            "home_team": "Atlanta Hawks",
+            "odds": 1.33
+        },
+        {
+            "away_team": "Charlotte Hornets",
+            "odds": 3.25
+        },
+        -7.5,
+        1.91
+    ],
+    [
+        {
+            "home_team": "Boston Celtics",
+            "odds": 1.53
+        },
+        {
+            "away_team": "Orlando Magic",
+            "odds": 2.5
+        },
+        -4.5,
+        1.91
+    ],
+    [
+        {
+            "home_team": "Toronto Raptors",
+            "odds": 1.14
+        },
+        {
+            "away_team": "Brooklyn Nets",
+            "odds": 5.5
+        },
+        -12.5,
+        1.85
+    ],
+    [
+        {
+            "home_team": "Cleveland Cavaliers",
+            "odds": 1.25
+        },
+        {
+            "away_team": "Los Angeles Clippers",
+            "odds": 3.75
+        },
+        -9.5,
+        1.91
+    ],
+    [
+        {
+            "home_team": "Oklahoma City Thunder",
+            "odds": 1.08
+        },
+        {
+            "away_team": "Portland Trail Blazers",
+            "odds": 7.5
+        },
+        -16.5,
+        1.91
+    ],
+    [
+        {
+            "home_team": "Utah Jazz",
+            "odds": 3.75
+        },
+        {
+            "away_team": "Los Angeles Lakers",
+            "odds": 1.25
+        },
+        -9.5,
+        1.91
+    ],
+    [
+        {
+            "home_team": "Phoenix Suns",
+            "odds": 1.65
+        },
+        {
+            "away_team": "San Antonio Spurs",
+            "odds": 2.2
+        },
+        -2.5,
+        1.85
+    ]
+]
