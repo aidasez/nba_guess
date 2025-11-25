@@ -1,0 +1,38 @@
+[
+    [
+        {
+            "home_team": "Washington Wizards",
+            "odds": 4.5
+        },
+        {
+            "away_team": "Atlanta Hawks",
+            "odds": 1.2
+        },
+        -10.5,
+        1.88
+    ],
+    [
+        {
+            "home_team": "Philadelphia 76ers",
+            "odds": 2.1
+        },
+        {
+            "away_team": "Orlando Magic",
+            "odds": 1.73
+        },
+        -13.5,
+        4.6
+    ],
+    [
+        {
+            "home_team": "Los Angeles Lakers",
+            "odds": 1.4
+        },
+        {
+            "away_team": "Los Angeles Clippers",
+            "odds": 2.88
+        },
+        -6.5,
+        1.91
+    ]
+]
