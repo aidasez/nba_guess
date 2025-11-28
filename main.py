@@ -503,5 +503,8 @@ save_file()
 # update_html(f"2025-{month}-{yesterday}")
 generate_index_html()
 repo_dir = "C:\handicap_guess"
-create_updated_html()
+try:
+    create_updated_html()
+except:
+    pass
 upload_to_github(repo_dir)
