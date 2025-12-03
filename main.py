@@ -381,7 +381,7 @@ def find_outcome():
 
         home_odds = int(game_match[0]['odds'])
         away_odds = int(game_match[1]['odds'])
-        spread = game_match[3]
+        spread = game_match[2]
 
         # Determine winners
         overall_winner = "home" if home_score > away_score else "away"
