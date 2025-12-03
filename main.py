@@ -202,6 +202,7 @@ def create_updated_html():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     date = yesterday
     os.chdir(date)
+    print(date,"is date")
     html_parent = f"""
     <!DOCTYPE html>
     <html>
@@ -257,12 +258,13 @@ def create_updated_html():
             
             
             
-    for i in range(0,len(games)):
+    for i in range(0,len(success_list)-1):
         # if games[i][2] > 0 :
         #     plusminus = "+"
         # else:
         #     plusminus = ""
-        print("success list",success_list)
+        print("success list",len(success_list))
+        print(i)
         success_overall_winner_name = success_list[i][0][0]
         success_overall_loser_name = success_list[i][0][2]
         score1 = success_list[i][0][1]
@@ -299,7 +301,7 @@ def table_update(success_list,games):
     
     html_parent = table
     
-    for i in range (0,len(games)):
+    for i in range (0,len(success_list)-1):
         home_team = games[i][0]["home_team"]
         away_team = games[i][1]["away_team"]
         home_team_moneyline = games[i][0]["odds"]
@@ -496,8 +498,5 @@ save_file()
 # update_html(f"2025-{month}-{yesterday}")
 generate_index_html()
 repo_dir = "C:\handicap_guess"
-try:
-    create_updated_html()
-except:
-    pass
+create_updated_html()
 upload_to_github(repo_dir)
