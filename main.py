@@ -329,11 +329,11 @@ def table_update(success_list,games):
         <tr>
             <td>{u1}{home_team}{u2} vs {u3}{away_team}{u4}</td>
             <td>{u1}{score1}{u2} - {u3}{score2}{u4}</td>
-            <td>{spread}</td>
-            <td>{spread_odds}</td>
+            <td class = "spread">{spread}</td>
+            <td class = "spread_odds">{spread_odds}</td>
             <td>{u1}{home_team_moneyline}{u2} vs {u3}{away_team_moneyline}{u4}</td>
-            <td>{success_overall_winner}</td>
-            <td>{success_spread_winner}</td>
+            <td class = "overall_winner">{success_overall_winner}</td>
+            <td class = "spread_winner">{success_spread_winner}</td>
         </tr>"""
     html_parent += """
     </table>
@@ -386,7 +386,7 @@ def find_outcome():
         # Determine winners
         overall_winner = "home" if home_score > away_score else "away"
         favourite = "home" if home_odds < away_odds else "away"  # lowest odds = favourite
-
+        print("spread is",spread)
         if favourite == "home":
             spread_winner = "home" if (home_score + spread) > away_score else "away"
         else:
@@ -405,13 +405,6 @@ def find_outcome():
         success_list.append([overall_winner, spread_winner])
     os.chdir(script_dir)
     return success_list
-
-
-            
-            
-        
-        
-    
     
 def get_response_api():
     games = []

@@ -1,0 +1,1259 @@
+[
+    {
+        "id": "bcd9318487d7479baa6c67c6dac77d82",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-12-04T00:10:00Z",
+        "home_team": "Cleveland Cavaliers",
+        "away_team": "Portland Trail Blazers",
+        "bookmakers": [
+            {
+                "key": "sport888",
+                "title": "888sport",
+                "last_update": "2025-12-03T11:00:46Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Cavaliers",
+                                "price": 1.91,
+                                "point": -10.5
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 1.85,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "matchbook",
+                "title": "Matchbook",
+                "last_update": "2025-12-03T11:01:13Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:01:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Cavaliers",
+                                "price": 1.95,
+                                "point": -10.0
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 1.99,
+                                "point": 10.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "leovegas",
+                "title": "LeoVegas",
+                "last_update": "2025-12-03T11:00:59Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Cavaliers",
+                                "price": 1.88,
+                                "point": -10.5
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 1.87,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2025-12-03T11:00:46Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Cavaliers",
+                                "price": 1.95,
+                                "point": -10.5
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 1.8,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_uk",
+                "title": "Ladbrokes",
+                "last_update": "2025-12-03T11:01:14Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:01:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Cavaliers",
+                                "price": 1.95,
+                                "point": -10.5
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 1.8,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ab009f7f2a7d899ac245a0c7d959c172",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-12-04T00:10:00Z",
+        "home_team": "Indiana Pacers",
+        "away_team": "Denver Nuggets",
+        "bookmakers": [
+            {
+                "key": "sport888",
+                "title": "888sport",
+                "last_update": "2025-12-03T11:00:46Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.91,
+                                "point": -7.5
+                            },
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 1.91,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "leovegas",
+                "title": "LeoVegas",
+                "last_update": "2025-12-03T11:00:59Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.87,
+                                "point": -7.5
+                            },
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 1.88,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2025-12-03T11:00:46Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 2.37,
+                                "point": -10.5
+                            },
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 1.57,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_uk",
+                "title": "Ladbrokes",
+                "last_update": "2025-12-03T11:01:14Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:01:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 2.37,
+                                "point": -10.5
+                            },
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 1.57,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "matchbook",
+                "title": "Matchbook",
+                "last_update": "2025-12-03T11:01:13Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:01:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.1,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 7.4,
+                                "point": -7.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "936b0e45efe15e5fd011019517643b4f",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-12-04T00:10:00Z",
+        "home_team": "Orlando Magic",
+        "away_team": "San Antonio Spurs",
+        "bookmakers": [
+            {
+                "key": "sport888",
+                "title": "888sport",
+                "last_update": "2025-12-03T11:00:46Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 1.95,
+                                "point": -8.5
+                            },
+                            {
+                                "name": "San Antonio Spurs",
+                                "price": 1.85,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "matchbook",
+                "title": "Matchbook",
+                "last_update": "2025-12-03T11:01:13Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:01:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 1.86,
+                                "point": -7.5
+                            },
+                            {
+                                "name": "San Antonio Spurs",
+                                "price": 2.06,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "leovegas",
+                "title": "LeoVegas",
+                "last_update": "2025-12-03T11:00:59Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 1.87,
+                                "point": -8.0
+                            },
+                            {
+                                "name": "San Antonio Spurs",
+                                "price": 1.88,
+                                "point": 8.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2025-12-03T11:00:46Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 2.62,
+                                "point": -13.5
+                            },
+                            {
+                                "name": "San Antonio Spurs",
+                                "price": 1.48,
+                                "point": 13.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_uk",
+                "title": "Ladbrokes",
+                "last_update": "2025-12-03T11:01:14Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:01:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 2.62,
+                                "point": -13.5
+                            },
+                            {
+                                "name": "San Antonio Spurs",
+                                "price": 1.48,
+                                "point": 13.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9e2229439904067904831257668485a4",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-12-04T00:40:00Z",
+        "home_team": "Atlanta Hawks",
+        "away_team": "Los Angeles Clippers",
+        "bookmakers": [
+            {
+                "key": "sport888",
+                "title": "888sport",
+                "last_update": "2025-12-03T11:00:46Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Hawks",
+                                "price": 1.91,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Los Angeles Clippers",
+                                "price": 1.85,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "leovegas",
+                "title": "LeoVegas",
+                "last_update": "2025-12-03T11:00:59Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Hawks",
+                                "price": 1.85,
+                                "point": -3.0
+                            },
+                            {
+                                "name": "Los Angeles Clippers",
+                                "price": 1.91,
+                                "point": 3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2025-12-03T11:00:46Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Hawks",
+                                "price": 1.44,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Los Angeles Clippers",
+                                "price": 2.75,
+                                "point": -2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_uk",
+                "title": "Ladbrokes",
+                "last_update": "2025-12-03T11:01:14Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:01:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Hawks",
+                                "price": 1.44,
+                                "point": 2.5
+                            },
+                            {
+                                "name": "Los Angeles Clippers",
+                                "price": 2.75,
+                                "point": -2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "matchbook",
+                "title": "Matchbook",
+                "last_update": "2025-12-03T11:01:13Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:01:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Hawks",
+                                "price": 2.68,
+                                "point": -7.5
+                            },
+                            {
+                                "name": "Los Angeles Clippers",
+                                "price": 1.5,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6303a20d9193cbb7cad95eb1a593f830",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-12-04T00:40:00Z",
+        "home_team": "New York Knicks",
+        "away_team": "Charlotte Hornets",
+        "bookmakers": [
+            {
+                "key": "sport888",
+                "title": "888sport",
+                "last_update": "2025-12-03T11:00:46Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 1.85,
+                                "point": -9.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "leovegas",
+                "title": "LeoVegas",
+                "last_update": "2025-12-03T11:00:59Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 1.91,
+                                "point": 9.5
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 1.85,
+                                "point": -9.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_uk",
+                "title": "Ladbrokes",
+                "last_update": "2025-12-03T11:01:14Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:01:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 1.48,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 2.6,
+                                "point": -14.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2025-12-03T11:00:46Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 1.48,
+                                "point": 14.5
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 2.6,
+                                "point": -14.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "matchbook",
+                "title": "Matchbook",
+                "last_update": "2025-12-03T11:01:13Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:01:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 2.36,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 1.65,
+                                "point": -7.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9421da303e9d1d538a8e49b3287d052c",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-12-04T01:10:00Z",
+        "home_team": "Chicago Bulls",
+        "away_team": "Brooklyn Nets",
+        "bookmakers": [
+            {
+                "key": "sport888",
+                "title": "888sport",
+                "last_update": "2025-12-03T11:00:46Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Chicago Bulls",
+                                "price": 1.85,
+                                "point": -7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "leovegas",
+                "title": "LeoVegas",
+                "last_update": "2025-12-03T11:00:59Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 1.89,
+                                "point": 8.0
+                            },
+                            {
+                                "name": "Chicago Bulls",
+                                "price": 1.85,
+                                "point": -8.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_uk",
+                "title": "Ladbrokes",
+                "last_update": "2025-12-03T11:01:14Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:01:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 1.67,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Chicago Bulls",
+                                "price": 2.15,
+                                "point": -10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2025-12-03T11:00:46Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 1.67,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Chicago Bulls",
+                                "price": 2.15,
+                                "point": -10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "matchbook",
+                "title": "Matchbook",
+                "last_update": "2025-12-03T11:01:13Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:01:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 2.08,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Chicago Bulls",
+                                "price": 1.84,
+                                "point": -7.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f1911824d4907eed6e6f89a9be9a84ed",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-12-04T01:10:00Z",
+        "home_team": "Houston Rockets",
+        "away_team": "Sacramento Kings",
+        "bookmakers": [
+            {
+                "key": "sport888",
+                "title": "888sport",
+                "last_update": "2025-12-03T11:00:46Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.85,
+                                "point": -15.5
+                            },
+                            {
+                                "name": "Sacramento Kings",
+                                "price": 1.91,
+                                "point": 15.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2025-12-03T11:00:46Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.48,
+                                "point": -11.5
+                            },
+                            {
+                                "name": "Sacramento Kings",
+                                "price": 2.6,
+                                "point": 11.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_uk",
+                "title": "Ladbrokes",
+                "last_update": "2025-12-03T11:01:14Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:01:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.48,
+                                "point": -11.5
+                            },
+                            {
+                                "name": "Sacramento Kings",
+                                "price": 2.6,
+                                "point": 11.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "leovegas",
+                "title": "LeoVegas",
+                "last_update": "2025-12-03T11:00:59Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.88,
+                                "point": -15.5
+                            },
+                            {
+                                "name": "Sacramento Kings",
+                                "price": 1.88,
+                                "point": 15.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "matchbook",
+                "title": "Matchbook",
+                "last_update": "2025-12-03T11:01:13Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:01:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.28,
+                                "point": -7.5
+                            },
+                            {
+                                "name": "Sacramento Kings",
+                                "price": 3.8,
+                                "point": 7.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "156b51c1cdfdee88329898e7923855ee",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-12-04T01:11:00Z",
+        "home_team": "Milwaukee Bucks",
+        "away_team": "Detroit Pistons",
+        "bookmakers": [
+            {
+                "key": "sport888",
+                "title": "888sport",
+                "last_update": "2025-12-03T11:00:46Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 1.85,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 1.91,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2025-12-03T11:00:46Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 2.25,
+                                "point": -5.5
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 1.65,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_uk",
+                "title": "Ladbrokes",
+                "last_update": "2025-12-03T11:01:14Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:01:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 2.25,
+                                "point": -5.5
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 1.65,
+                                "point": 5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "matchbook",
+                "title": "Matchbook",
+                "last_update": "2025-12-03T11:01:13Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:01:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 1.23,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 4.3,
+                                "point": -7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "leovegas",
+                "title": "LeoVegas",
+                "last_update": "2025-12-03T11:00:59Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 1.87,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 1.88,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "598be080fed3a6c477b581ad0744d1a0",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-12-04T01:30:00Z",
+        "home_team": "Dallas Mavericks",
+        "away_team": "Miami Heat",
+        "bookmakers": [
+            {
+                "key": "sport888",
+                "title": "888sport",
+                "last_update": "2025-12-03T11:00:46Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.85,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Miami Heat",
+                                "price": 1.91,
+                                "point": -4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "coral",
+                "title": "Coral",
+                "last_update": "2025-12-03T11:00:46Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:46Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.35,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Miami Heat",
+                                "price": 3.1,
+                                "point": -10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "ladbrokes_uk",
+                "title": "Ladbrokes",
+                "last_update": "2025-12-03T11:01:14Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:01:14Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.35,
+                                "point": 10.5
+                            },
+                            {
+                                "name": "Miami Heat",
+                                "price": 3.1,
+                                "point": -10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "matchbook",
+                "title": "Matchbook",
+                "last_update": "2025-12-03T11:01:13Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:01:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 2.12,
+                                "point": 3.0
+                            },
+                            {
+                                "name": "Miami Heat",
+                                "price": 1.78,
+                                "point": -3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "leovegas",
+                "title": "LeoVegas",
+                "last_update": "2025-12-03T11:00:59Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.88,
+                                "point": 4.0
+                            },
+                            {
+                                "name": "Miami Heat",
+                                "price": 1.88,
+                                "point": -4.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "099fbdb7f4738db6e1f5b7889ab3d707",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-12-09T23:00:00Z",
+        "home_team": "Orlando Magic",
+        "away_team": "Miami Heat",
+        "bookmakers": [
+            {
+                "key": "leovegas",
+                "title": "LeoVegas",
+                "last_update": "2025-12-03T11:00:59Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Heat",
+                                "price": 1.87,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Orlando Magic",
+                                "price": 1.89,
+                                "point": -5.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "582a77bcdc5401a29e263ffed5d26609",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-12-10T01:30:00Z",
+        "home_team": "Toronto Raptors",
+        "away_team": "New York Knicks",
+        "bookmakers": [
+            {
+                "key": "leovegas",
+                "title": "LeoVegas",
+                "last_update": "2025-12-03T11:00:59Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:59Z",
+                        "outcomes": [
+                            {
+                                "name": "New York Knicks",
+                                "price": 1.88,
+                                "point": -2.5
+                            },
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.88,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9373b84d11358f66f18562222dbf5f42",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-12-11T00:30:00Z",
+        "home_team": "Oklahoma City Thunder",
+        "away_team": "Phoenix Suns",
+        "bookmakers": [
+            {
+                "key": "leovegas",
+                "title": "LeoVegas",
+                "last_update": "2025-12-03T11:00:59Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.88,
+                                "point": -14.5
+                            },
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 1.88,
+                                "point": 14.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2031f79c4dd229576855fb346449a8d4",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2025-12-11T03:00:00Z",
+        "home_team": "Los Angeles Lakers",
+        "away_team": "San Antonio Spurs",
+        "bookmakers": [
+            {
+                "key": "leovegas",
+                "title": "LeoVegas",
+                "last_update": "2025-12-03T11:00:59Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2025-12-03T11:00:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": 1.88,
+                                "point": -4.5
+                            },
+                            {
+                                "name": "San Antonio Spurs",
+                                "price": 1.88,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
